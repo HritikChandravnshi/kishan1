@@ -1,0 +1,1901 @@
+Temperature,Weather_Conditions,Humidity,Disease
+20.47084146201113,Mist,84.26318564833106,Apple___Apple_scab
+21.807944231277354,Shower Rain,71.97437412928471,Apple___Apple_scab
+15.290168024599936,Rain,88.21986324143793,Apple___Apple_scab
+16.150028754440424,Mist,85.3000072462979,Apple___Apple_scab
+21.91868905347681,Mist,84.1007922786094,Apple___Apple_scab
+19.11436808833169,Mist,78.0402780823471,Apple___Apple_scab
+20.764014501294223,Broken Clouds,76.02889922601449,Apple___Apple_scab
+16.32270782479225,Mist,74.26506718564494,Apple___Apple_scab
+19.761677369873887,Clear Sky,80.45551850220632,Apple___Apple_scab
+20.313616601059127,Scattered Clouds,82.34195366968098,Apple___Apple_scab
+19.821515442829956,Scattered Clouds,71.97962952280967,Apple___Apple_scab
+18.78279783239204,Thunderstorm,80.6342361911623,Apple___Apple_scab
+18.22840411592014,Mist,86.88747368974201,Apple___Apple_scab
+21.93787043564084,Few Clouds,89.14625216555999,Apple___Apple_scab
+21.670530546095264,Scattered Clouds,72.10403172437054,Apple___Apple_scab
+18.223651081475516,Broken Clouds,87.5453657706043,Apple___Apple_scab
+16.35235397044071,Clear Sky,87.38197416484492,Apple___Apple_scab
+20.328975531031755,Rain,85.75911910873707,Apple___Apple_scab
+19.772893703045305,Shower Rain,82.48649091937348,Apple___Apple_scab
+19.416222866957238,Shower Rain,84.32192716034031,Apple___Apple_scab
+21.44958071352606,Mist,76.73574862386681,Apple___Apple_scab
+15.724873332993354,Rain,84.52620396316574,Apple___Apple_scab
+21.476591325742998,Scattered Clouds,78.70692804002718,Apple___Apple_scab
+20.81911676561327,Snow,71.83112767273911,Apple___Apple_scab
+15.601509531974768,Clear Sky,78.05056954877459,Apple___Apple_scab
+20.92924001578591,Scattered Clouds,72.80609754044075,Apple___Apple_scab
+18.218215316689854,Thunderstorm,84.80003179790695,Apple___Apple_scab
+21.620229888001433,Shower Rain,79.02406264876025,Apple___Apple_scab
+16.00855348060413,Clear Sky,79.90008421708886,Apple___Apple_scab
+16.278415090741362,Shower Rain,83.58114853462259,Apple___Apple_scab
+16.245427621283245,Mist,88.4523433020037,Apple___Apple_scab
+19.541532405332894,Snow,74.75704153613094,Apple___Apple_scab
+15.667701130388801,Broken Clouds,87.19257059575892,Apple___Apple_scab
+18.3534792914794,Shower Rain,78.88827241235583,Apple___Apple_scab
+18.898760177724228,Shower Rain,86.04198131507003,Apple___Apple_scab
+16.89967496735275,Clear Sky,77.27447105060689,Apple___Apple_scab
+19.43687275376627,Mist,82.38689610232336,Apple___Apple_scab
+18.425921095471903,Scattered Clouds,81.74374859616366,Apple___Apple_scab
+16.91906984182452,Thunderstorm,76.97190204519768,Apple___Apple_scab
+16.83476145772229,Rain,76.89522957003632,Apple___Apple_scab
+16.056128143020956,Clear Sky,76.19688667975355,Apple___Apple_scab
+20.133046411201686,Broken Clouds,88.58766432087083,Apple___Apple_scab
+20.782328167625156,Snow,89.77998896343173,Apple___Apple_scab
+20.083138008036602,Clear Sky,84.80432314655847,Apple___Apple_scab
+20.049004282472932,Scattered Clouds,74.84813405733055,Apple___Apple_scab
+20.130917434885422,Scattered Clouds,72.57252117103246,Apple___Apple_scab
+20.915137226099596,Mist,71.33879937206453,Apple___Apple_scab
+20.942050780461464,Few Clouds,85.80802576178925,Apple___Apple_scab
+16.487559521757852,Snow,78.15483392977694,Apple___Apple_scab
+18.228736098032638,Scattered Clouds,76.26436557396309,Apple___Apple_scab
+21.145875536530788,Snow,65.91992940665858,Apple___Black_rot
+22.1237314540625,Snow,79.90050144275472,Apple___Black_rot
+21.781425390589373,Broken Clouds,61.33652128865973,Apple___Black_rot
+24.725946325979045,Clear Sky,69.57945217211144,Apple___Black_rot
+20.36634039379512,Thunderstorm,78.16196253690703,Apple___Black_rot
+20.70081631440784,Thunderstorm,79.56160318720185,Apple___Black_rot
+23.104850754424085,Rain,75.11917621583301,Apple___Black_rot
+21.864622950705492,Clear Sky,76.90682068700492,Apple___Black_rot
+20.28652548524273,Mist,65.17629944541899,Apple___Black_rot
+23.15723275138259,Snow,62.07324670088059,Apple___Black_rot
+20.30775129135284,Mist,63.785235786713905,Apple___Black_rot
+23.303327436714675,Snow,60.11082958363898,Apple___Black_rot
+22.69022492637697,Rain,64.58238911832939,Apple___Black_rot
+23.523143915779915,Broken Clouds,73.62142517290403,Apple___Black_rot
+23.371598071288613,Thunderstorm,70.58054363374235,Apple___Black_rot
+20.944154463165905,Scattered Clouds,68.67392894532243,Apple___Black_rot
+20.688518444156017,Mist,79.21069897037913,Apple___Black_rot
+24.25396306428036,Clear Sky,64.16377313989481,Apple___Black_rot
+22.510496790228057,Mist,61.44259541387218,Apple___Black_rot
+24.63040673335202,Few Clouds,77.70437083989539,Apple___Black_rot
+24.854902673510743,Thunderstorm,72.00117684535228,Apple___Black_rot
+24.33761463441252,Mist,63.0138688973666,Apple___Black_rot
+23.95816252756107,Snow,63.249875778581114,Apple___Black_rot
+24.768429374820126,Scattered Clouds,72.36502923433468,Apple___Black_rot
+21.36530525943287,Shower Rain,70.78959199641177,Apple___Black_rot
+20.579222092946328,Mist,64.08281727121283,Apple___Black_rot
+21.619523019853116,Broken Clouds,77.0330711414873,Apple___Black_rot
+20.29916483571782,Broken Clouds,60.47690176177771,Apple___Black_rot
+24.113544994950068,Rain,66.63795306897173,Apple___Black_rot
+22.62478690738904,Clear Sky,79.49796610760644,Apple___Black_rot
+22.485170729523187,Few Clouds,60.417402956446494,Apple___Black_rot
+21.12768021122061,Shower Rain,78.61397872628908,Apple___Black_rot
+22.035834241275985,Snow,65.9438111913914,Apple___Black_rot
+24.909820467380662,Shower Rain,68.19382491063675,Apple___Black_rot
+23.33729221324708,Few Clouds,64.4081560318738,Apple___Black_rot
+22.95645090187489,Snow,68.92912088401069,Apple___Black_rot
+24.494048020831578,Scattered Clouds,63.82154251221666,Apple___Black_rot
+22.071570799920984,Scattered Clouds,62.2230465957464,Apple___Black_rot
+20.20446814023539,Thunderstorm,68.68747376226831,Apple___Black_rot
+23.206422845700672,Clear Sky,70.17518897586662,Apple___Black_rot
+23.209145272774737,Mist,71.42150640624055,Apple___Black_rot
+23.334263752464636,Snow,77.25283625005918,Apple___Black_rot
+20.742546120252893,Few Clouds,69.4014674579211,Apple___Black_rot
+23.901898680346186,Rain,78.35196867432174,Apple___Black_rot
+20.040760130244376,Broken Clouds,72.77748466016081,Apple___Black_rot
+23.431363974968466,Mist,67.55413557507774,Apple___Black_rot
+23.74334679888658,Few Clouds,74.3092468779642,Apple___Black_rot
+22.82892877223717,Broken Clouds,64.88434245772348,Apple___Black_rot
+21.040885732232375,Rain,76.84581751415628,Apple___Black_rot
+22.027165411989273,Scattered Clouds,79.12141402832884,Apple___Black_rot
+20.074076815828356,Shower Rain,81.70445505563772,Apple___Cedar_apple_rust
+22.25882715861177,Clear Sky,81.63584042813306,Apple___Cedar_apple_rust
+20.574364505863855,Broken Clouds,82.5679813743966,Apple___Cedar_apple_rust
+23.122774766436073,Thunderstorm,87.30343827129367,Apple___Cedar_apple_rust
+23.525193169025364,Clear Sky,88.47105637819317,Apple___Cedar_apple_rust
+21.456576004758457,Thunderstorm,86.56187247856847,Apple___Cedar_apple_rust
+20.46249797766143,Mist,85.19842620886817,Apple___Cedar_apple_rust
+22.568782006011375,Rain,83.35758337811959,Apple___Cedar_apple_rust
+18.414191324702294,Snow,84.32220886767523,Apple___Cedar_apple_rust
+18.030199899847343,Few Clouds,84.44821015324118,Apple___Cedar_apple_rust
+21.565919116298787,Shower Rain,82.92685210005436,Apple___Cedar_apple_rust
+24.530068580291104,Thunderstorm,86.16431453778988,Apple___Cedar_apple_rust
+18.931679525627413,Shower Rain,83.09080399943083,Apple___Cedar_apple_rust
+21.16072093456575,Mist,81.30143288288178,Apple___Cedar_apple_rust
+22.462285559193706,Few Clouds,86.66768576283407,Apple___Cedar_apple_rust
+18.569847762961356,Few Clouds,81.06548025938518,Apple___Cedar_apple_rust
+24.246887715334758,Thunderstorm,84.31483786021262,Apple___Cedar_apple_rust
+20.525815951336885,Mist,87.66062187352219,Apple___Cedar_apple_rust
+23.52379904598864,Rain,89.39874995540728,Apple___Cedar_apple_rust
+21.28659210826014,Mist,82.7911024224247,Apple___Cedar_apple_rust
+18.1288780819586,Clear Sky,85.48176722525935,Apple___Cedar_apple_rust
+23.15797051650192,Snow,82.63772890288085,Apple___Cedar_apple_rust
+21.54097058238127,Shower Rain,80.77554973763137,Apple___Cedar_apple_rust
+22.696729855044943,Scattered Clouds,88.4423123836059,Apple___Cedar_apple_rust
+18.74590427372476,Shower Rain,85.09006507430814,Apple___Cedar_apple_rust
+18.331248545941534,Few Clouds,88.80614927748844,Apple___Cedar_apple_rust
+21.12641188095901,Clear Sky,81.66869520288071,Apple___Cedar_apple_rust
+22.309623527813272,Thunderstorm,81.5273164129513,Apple___Cedar_apple_rust
+18.149272557283147,Shower Rain,84.42935931876377,Apple___Cedar_apple_rust
+24.708073811753174,Clear Sky,82.12176993667968,Apple___Cedar_apple_rust
+21.17341343827015,Broken Clouds,81.64001917584795,Apple___Cedar_apple_rust
+22.691155591458656,Rain,85.40406118659195,Apple___Cedar_apple_rust
+23.742959280465136,Broken Clouds,81.4419547936767,Apple___Cedar_apple_rust
+24.85629012978162,Rain,89.09749440872555,Apple___Cedar_apple_rust
+22.10750520116594,Snow,86.05254831771958,Apple___Cedar_apple_rust
+19.45301120391076,Few Clouds,83.03065849940828,Apple___Cedar_apple_rust
+24.621894224292685,Rain,89.07248539463957,Apple___Cedar_apple_rust
+24.2794077802566,Scattered Clouds,85.17375631951526,Apple___Cedar_apple_rust
+20.639265661554372,Shower Rain,81.13020944249979,Apple___Cedar_apple_rust
+24.85120262395791,Thunderstorm,84.31286712304961,Apple___Cedar_apple_rust
+19.822708493354366,Mist,88.41894352632683,Apple___Cedar_apple_rust
+21.88585420970122,Rain,84.02721487787979,Apple___Cedar_apple_rust
+24.84324164559197,Rain,86.98385090077609,Apple___Cedar_apple_rust
+23.293012919289648,Clear Sky,87.85298861712214,Apple___Cedar_apple_rust
+20.93378964614337,Snow,89.35748751804498,Apple___Cedar_apple_rust
+18.716959922880463,Few Clouds,88.3694354298271,Apple___Cedar_apple_rust
+21.229629019861733,Shower Rain,84.04063454633818,Apple___Cedar_apple_rust
+24.42685327375274,Mist,89.75403230898638,Apple___Cedar_apple_rust
+22.96982097585855,Snow,81.19682233228211,Apple___Cedar_apple_rust
+24.36756086426791,Shower Rain,81.73618101914404,Apple___Cedar_apple_rust
+20.99935827011389,Clear Sky,48.75204145554865,Apple___healthy
+21.062145424557727,Shower Rain,62.12232562344597,Apple___healthy
+27.627069771998993,Mist,68.86907057127098,Apple___healthy
+29.78723752935339,Rain,48.63011751116764,Apple___healthy
+23.958338400097556,Clear Sky,61.22081673708494,Apple___healthy
+15.778791935061141,Mist,40.26495163713772,Apple___healthy
+17.571200665419724,Mist,40.279483526288814,Apple___healthy
+15.624161336447292,Snow,55.28508064228426,Apple___healthy
+20.663405995973253,Scattered Clouds,59.27497518558199,Apple___healthy
+17.026216018621135,Shower Rain,55.074489415400166,Apple___healthy
+25.36659072041844,Snow,46.62280470958505,Apple___healthy
+15.351541721863114,Scattered Clouds,51.88017394031409,Apple___healthy
+15.401315818140715,Shower Rain,50.45391117478077,Apple___healthy
+23.23596156603806,Broken Clouds,61.089093781112545,Apple___healthy
+16.475680845844074,Scattered Clouds,66.37725155012436,Apple___healthy
+29.168026582699365,Shower Rain,68.85285013922983,Apple___healthy
+29.090346987212595,Scattered Clouds,46.27414499687314,Apple___healthy
+20.4919990086022,Few Clouds,64.62099650591661,Apple___healthy
+22.796008341857988,Clear Sky,53.43700891136078,Apple___healthy
+21.037547293519612,Thunderstorm,55.51087929250775,Apple___healthy
+28.981333782647134,Thunderstorm,43.49030892296876,Apple___healthy
+17.518699707628556,Scattered Clouds,55.24635738909304,Apple___healthy
+23.17561304240995,Thunderstorm,65.64552532754641,Apple___healthy
+18.214464650736385,Rain,45.943056052047474,Apple___healthy
+15.382924769775274,Snow,42.196201530636685,Apple___healthy
+16.4967271712574,Snow,59.59414238941282,Apple___healthy
+16.108070357923975,Few Clouds,54.58497755874645,Apple___healthy
+21.71770376584093,Thunderstorm,53.18132274396216,Apple___healthy
+27.575386003242524,Mist,55.471948463633076,Apple___healthy
+29.46127369707382,Mist,63.8271459062713,Apple___healthy
+20.41099074599309,Snow,64.92127113613952,Apple___healthy
+26.734119968049118,Few Clouds,67.8603937944465,Apple___healthy
+20.20340034035362,Mist,41.1945320872414,Apple___healthy
+29.964424040155485,Rain,60.51918399067912,Apple___healthy
+27.826946950984055,Thunderstorm,61.147108494341104,Apple___healthy
+19.171247034014954,Mist,42.488884159612034,Apple___healthy
+15.400725627751608,Thunderstorm,46.687588038053754,Apple___healthy
+16.908402696164394,Thunderstorm,58.48387426946821,Apple___healthy
+20.24379291591822,Few Clouds,68.0003248126769,Apple___healthy
+23.588868006718638,Snow,47.086418667219405,Apple___healthy
+16.85600497986565,Scattered Clouds,66.35978011695691,Apple___healthy
+15.452340502621823,Snow,58.69398358141618,Apple___healthy
+17.049516308553923,Shower Rain,67.0296830730904,Apple___healthy
+25.210721813731343,Clear Sky,60.86915722320399,Apple___healthy
+19.063778746402395,Clear Sky,47.270483687270044,Apple___healthy
+22.53353343682924,Shower Rain,54.785224423348765,Apple___healthy
+28.701837050655993,Few Clouds,41.280307364563576,Apple___healthy
+15.535614292366398,Thunderstorm,57.64542321923224,Apple___healthy
+27.108971259264084,Snow,67.1347722620102,Apple___healthy
+23.982289167488805,Snow,60.528099517208545,Apple___healthy
+14.631210252219216,Scattered Clouds,73.36548747558949,Blueberry___healthy
+17.52766221545725,Scattered Clouds,84.63269302325111,Blueberry___healthy
+20.670857512631123,Thunderstorm,82.31116291673378,Blueberry___healthy
+18.72824927216003,Few Clouds,75.6843722526571,Blueberry___healthy
+13.413022496118602,Thunderstorm,75.1862141443687,Blueberry___healthy
+15.218560129517781,Few Clouds,71.00554025128642,Blueberry___healthy
+13.78763731362871,Few Clouds,72.87318493112674,Blueberry___healthy
+16.68422244399442,Clear Sky,71.12763794121433,Blueberry___healthy
+13.688722624415465,Thunderstorm,80.88930307752875,Blueberry___healthy
+19.436382522529627,Few Clouds,80.6577655396347,Blueberry___healthy
+17.663692724240082,Shower Rain,83.55852977455837,Blueberry___healthy
+15.561591481415316,Broken Clouds,79.34567544933418,Blueberry___healthy
+18.398821705321318,Clear Sky,81.30059354570456,Blueberry___healthy
+16.924461200492367,Scattered Clouds,76.93241841146524,Blueberry___healthy
+19.24441282964082,Rain,81.91990012092162,Blueberry___healthy
+17.140806326128263,Rain,75.42384613113856,Blueberry___healthy
+16.456777870711452,Few Clouds,73.80048383702719,Blueberry___healthy
+19.108513743329063,Thunderstorm,79.11285246320007,Blueberry___healthy
+14.414401304477533,Mist,75.10069003204737,Blueberry___healthy
+15.341002915448069,Broken Clouds,76.68781357776786,Blueberry___healthy
+16.985578154420292,Thunderstorm,76.60088205257186,Blueberry___healthy
+20.673591568594958,Broken Clouds,75.45973178613805,Blueberry___healthy
+19.291135893432134,Thunderstorm,71.1585929390548,Blueberry___healthy
+19.884414099512874,Shower Rain,76.63408063605415,Blueberry___healthy
+15.826493958938153,Rain,82.28158825387344,Blueberry___healthy
+16.871841766077452,Shower Rain,81.31252013353956,Blueberry___healthy
+18.60526380828771,Few Clouds,82.94324819871755,Blueberry___healthy
+17.946068542884667,Few Clouds,74.43351317292512,Blueberry___healthy
+19.26148743502553,Shower Rain,84.1414518159204,Blueberry___healthy
+17.950268402599683,Broken Clouds,72.53997763045686,Blueberry___healthy
+20.091791541962078,Shower Rain,77.99445946676289,Blueberry___healthy
+13.372633000402182,Shower Rain,80.06716029121287,Blueberry___healthy
+15.449040894241602,Shower Rain,79.05382344861886,Blueberry___healthy
+17.74579813371995,Rain,81.99304920990934,Blueberry___healthy
+20.338533715597812,Few Clouds,73.5707131404239,Blueberry___healthy
+13.525286774926329,Broken Clouds,82.91410594467656,Blueberry___healthy
+16.290703965989266,Snow,81.75989706367633,Blueberry___healthy
+17.578470169427117,Clear Sky,74.14978081611953,Blueberry___healthy
+20.223171637483595,Rain,82.17177458349786,Blueberry___healthy
+13.663760367463011,Rain,80.02733892483356,Blueberry___healthy
+15.279593862893567,Shower Rain,70.86136862027554,Blueberry___healthy
+18.166809805897184,Scattered Clouds,73.03004077509395,Blueberry___healthy
+19.413427351100047,Shower Rain,74.17403517071436,Blueberry___healthy
+16.862119470645588,Mist,78.41716849322846,Blueberry___healthy
+13.057957731069934,Mist,71.21765213603236,Blueberry___healthy
+13.778641165935875,Scattered Clouds,74.23779227576586,Blueberry___healthy
+13.680570500471912,Few Clouds,76.47866417920147,Blueberry___healthy
+15.4399661954386,Rain,79.240312471895,Blueberry___healthy
+17.894141888991626,Few Clouds,75.32365626597152,Blueberry___healthy
+13.488089996831718,Clear Sky,78.91117561214274,Blueberry___healthy
+19.31190046958549,Few Clouds,63.80487468263752,Cherry_(including_sour)___Powdery_mildew
+22.117453495164334,Snow,56.65211952270135,Cherry_(including_sour)___Powdery_mildew
+20.411769012767124,Mist,57.56557368573899,Cherry_(including_sour)___Powdery_mildew
+21.56410093256099,Snow,55.857326084470515,Cherry_(including_sour)___Powdery_mildew
+20.23694274587899,Shower Rain,63.73952074506533,Cherry_(including_sour)___Powdery_mildew
+21.74251066010752,Mist,50.501498662624144,Cherry_(including_sour)___Powdery_mildew
+22.24130548943561,Shower Rain,62.533828554786695,Cherry_(including_sour)___Powdery_mildew
+22.787639738100914,Mist,65.75144951961931,Cherry_(including_sour)___Powdery_mildew
+24.645815136062332,Shower Rain,67.1045796333353,Cherry_(including_sour)___Powdery_mildew
+22.954248967603807,Scattered Clouds,60.49730043732526,Cherry_(including_sour)___Powdery_mildew
+18.63356524804776,Thunderstorm,64.21645851759187,Cherry_(including_sour)___Powdery_mildew
+22.46255409120875,Clear Sky,64.23077624770139,Cherry_(including_sour)___Powdery_mildew
+19.751563018398304,Rain,66.33922595989748,Cherry_(including_sour)___Powdery_mildew
+24.69429607422162,Snow,58.827502923967444,Cherry_(including_sour)___Powdery_mildew
+21.750697524816687,Rain,68.87427441682786,Cherry_(including_sour)___Powdery_mildew
+21.039134231570227,Shower Rain,53.13340072533396,Cherry_(including_sour)___Powdery_mildew
+21.055010257093357,Shower Rain,61.34352283754368,Cherry_(including_sour)___Powdery_mildew
+23.17179626307949,Mist,56.91455182492391,Cherry_(including_sour)___Powdery_mildew
+19.69050042220497,Scattered Clouds,61.997300390746545,Cherry_(including_sour)___Powdery_mildew
+21.553909207692453,Clear Sky,61.96547252789415,Cherry_(including_sour)___Powdery_mildew
+23.17833883769464,Clear Sky,63.87189025261175,Cherry_(including_sour)___Powdery_mildew
+21.441037701870453,Clear Sky,55.51627133699479,Cherry_(including_sour)___Powdery_mildew
+20.272807484158477,Few Clouds,51.071963480248456,Cherry_(including_sour)___Powdery_mildew
+19.27071459013936,Snow,67.10402895380115,Cherry_(including_sour)___Powdery_mildew
+19.460342176093803,Thunderstorm,57.35287190917535,Cherry_(including_sour)___Powdery_mildew
+19.247316842413372,Mist,56.78891689658102,Cherry_(including_sour)___Powdery_mildew
+20.70469631098803,Few Clouds,59.607220014028435,Cherry_(including_sour)___Powdery_mildew
+24.913181475791234,Clear Sky,53.926918701881114,Cherry_(including_sour)___Powdery_mildew
+19.738315671804934,Clear Sky,63.0959120859682,Cherry_(including_sour)___Powdery_mildew
+23.191295031968533,Shower Rain,57.596997608801196,Cherry_(including_sour)___Powdery_mildew
+24.71396561783839,Broken Clouds,63.21487035556708,Cherry_(including_sour)___Powdery_mildew
+22.98724479923289,Scattered Clouds,61.891855412758346,Cherry_(including_sour)___Powdery_mildew
+18.51468059633641,Scattered Clouds,58.828989345722086,Cherry_(including_sour)___Powdery_mildew
+18.210920733918776,Rain,61.07094241107002,Cherry_(including_sour)___Powdery_mildew
+24.80368915559129,Shower Rain,62.83723655210144,Cherry_(including_sour)___Powdery_mildew
+22.15012702900248,Rain,59.41841558398815,Cherry_(including_sour)___Powdery_mildew
+22.094560018105124,Rain,55.817426024736264,Cherry_(including_sour)___Powdery_mildew
+23.635868164939115,Thunderstorm,56.98828504750218,Cherry_(including_sour)___Powdery_mildew
+24.831541168251768,Rain,65.58163124984401,Cherry_(including_sour)___Powdery_mildew
+22.871667649947216,Shower Rain,67.9312103244114,Cherry_(including_sour)___Powdery_mildew
+22.018108683141875,Broken Clouds,66.7085877299656,Cherry_(including_sour)___Powdery_mildew
+18.04570753835148,Mist,69.39396496744685,Cherry_(including_sour)___Powdery_mildew
+23.423749648759724,Few Clouds,68.67795589320927,Cherry_(including_sour)___Powdery_mildew
+24.479922677987183,Clear Sky,61.73709493365346,Cherry_(including_sour)___Powdery_mildew
+22.208772919691782,Mist,56.75212308947467,Cherry_(including_sour)___Powdery_mildew
+18.86505007473542,Mist,62.51989711764993,Cherry_(including_sour)___Powdery_mildew
+21.317587287735197,Snow,58.06313030199142,Cherry_(including_sour)___Powdery_mildew
+20.549117768289715,Scattered Clouds,54.644578823684206,Cherry_(including_sour)___Powdery_mildew
+24.87051446093827,Mist,63.96796489852759,Cherry_(including_sour)___Powdery_mildew
+24.171324590896987,Snow,56.24121947057559,Cherry_(including_sour)___Powdery_mildew
+17.867209616416996,Thunderstorm,62.8970095915093,Cherry_(including_sour)___healthy
+21.356106208045635,Snow,50.85761815447094,Cherry_(including_sour)___healthy
+16.554962985712663,Broken Clouds,55.51618761197445,Cherry_(including_sour)___healthy
+23.549609865630284,Scattered Clouds,68.85738665199246,Cherry_(including_sour)___healthy
+20.88408669776727,Shower Rain,69.10992568663299,Cherry_(including_sour)___healthy
+17.35769819002519,Mist,57.629404844175966,Cherry_(including_sour)___healthy
+17.493496778764374,Shower Rain,58.622247579756355,Cherry_(including_sour)___healthy
+15.85008074892631,Clear Sky,65.37184982621433,Cherry_(including_sour)___healthy
+22.20443652336529,Few Clouds,58.843564027627565,Cherry_(including_sour)___healthy
+19.273726472763336,Thunderstorm,62.5090128851915,Cherry_(including_sour)___healthy
+21.235924455014032,Shower Rain,51.61624382069455,Cherry_(including_sour)___healthy
+23.03538418469391,Snow,69.0493665982123,Cherry_(including_sour)___healthy
+17.858913949956214,Snow,53.83447008941487,Cherry_(including_sour)___healthy
+19.506535886814834,Mist,62.0112809720648,Cherry_(including_sour)___healthy
+15.203940413952328,Broken Clouds,69.18511476280005,Cherry_(including_sour)___healthy
+20.368087987565815,Shower Rain,51.88754145823128,Cherry_(including_sour)___healthy
+19.66859412272651,Shower Rain,60.71601747380311,Cherry_(including_sour)___healthy
+16.514887116176528,Mist,67.35042387342973,Cherry_(including_sour)___healthy
+23.183383630326038,Shower Rain,62.55089912314669,Cherry_(including_sour)___healthy
+22.44364975539725,Thunderstorm,68.02513458287339,Cherry_(including_sour)___healthy
+17.955890159166916,Rain,68.03590134914072,Cherry_(including_sour)___healthy
+18.748961771580188,Shower Rain,59.80928137342071,Cherry_(including_sour)___healthy
+15.567082327769342,Snow,69.83870093706308,Cherry_(including_sour)___healthy
+18.684942630814042,Mist,64.00228275296568,Cherry_(including_sour)___healthy
+23.938582408378547,Snow,54.609553056050835,Cherry_(including_sour)___healthy
+22.466581225320308,Rain,50.35817315608789,Cherry_(including_sour)___healthy
+19.922334075545248,Scattered Clouds,57.17179610602634,Cherry_(including_sour)___healthy
+23.167851662427726,Broken Clouds,68.94749512733321,Cherry_(including_sour)___healthy
+22.58375566417729,Mist,61.10594247577171,Cherry_(including_sour)___healthy
+17.109673013281384,Broken Clouds,56.26529822470692,Cherry_(including_sour)___healthy
+17.035319063938964,Mist,64.1371792483816,Cherry_(including_sour)___healthy
+16.735314398201563,Snow,58.78792901840783,Cherry_(including_sour)___healthy
+22.728622106222463,Thunderstorm,56.80394113982614,Cherry_(including_sour)___healthy
+18.31434094941428,Broken Clouds,59.42579177112197,Cherry_(including_sour)___healthy
+20.28242502486544,Few Clouds,53.00008519677639,Cherry_(including_sour)___healthy
+21.566325615233513,Rain,53.92255779800673,Cherry_(including_sour)___healthy
+20.24484659207299,Snow,66.6057345757075,Cherry_(including_sour)___healthy
+16.505763302720503,Clear Sky,57.75513915546803,Cherry_(including_sour)___healthy
+15.098305501471202,Few Clouds,69.34795153797735,Cherry_(including_sour)___healthy
+24.01216760983698,Rain,67.6401494644127,Cherry_(including_sour)___healthy
+22.482027262618566,Thunderstorm,68.8264856612783,Cherry_(including_sour)___healthy
+21.288635772416065,Snow,55.56548614678415,Cherry_(including_sour)___healthy
+16.01967470403914,Clear Sky,61.14114508511377,Cherry_(including_sour)___healthy
+21.09478185738884,Shower Rain,61.92033244502915,Cherry_(including_sour)___healthy
+22.66008993975004,Clear Sky,55.749225595152005,Cherry_(including_sour)___healthy
+15.209535349271023,Shower Rain,67.1667937579506,Cherry_(including_sour)___healthy
+22.235081625969976,Mist,62.46194386857468,Cherry_(including_sour)___healthy
+16.60977512769263,Snow,51.07614553853979,Cherry_(including_sour)___healthy
+15.776856575017245,Mist,67.21932593298459,Cherry_(including_sour)___healthy
+22.013682489189687,Rain,62.31620407538023,Cherry_(including_sour)___healthy
+21.108313199156697,Clear Sky,80.01646301962512,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+23.133346763893815,Shower Rain,89.09776547322359,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+24.743433326601348,Clear Sky,89.20710701123778,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+23.068210613774365,Thunderstorm,82.6283765092887,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+27.414822322298534,Mist,88.64581832839755,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+21.371612888509517,Mist,92.7128743904309,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+23.831020576827136,Clear Sky,92.65071556997367,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+25.006894167268065,Broken Clouds,80.90601849538486,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+25.908229716335597,Shower Rain,82.71092424486915,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+21.359777202463395,Thunderstorm,84.51325835017778,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+22.2719002720268,Clear Sky,80.50533658026836,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+23.999192779791468,Few Clouds,86.70224261853669,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+26.068727290160826,Shower Rain,87.69378976162096,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+27.719346285812875,Mist,91.61199629199693,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+27.410208539421394,Mist,88.29564884355752,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+22.614683869649475,Broken Clouds,89.22405552516516,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+27.123814376261844,Few Clouds,88.28989770092232,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+22.479372904461652,Rain,93.4092336987742,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+24.517209332669516,Mist,91.2981070968517,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+26.508847327813125,Snow,87.39751364717068,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+21.747216729414347,Broken Clouds,94.61743481660346,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+22.13173598624878,Shower Rain,86.0869891674109,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+27.978516744745836,Rain,89.01904475709068,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+28.075836884201752,Scattered Clouds,82.99283051699224,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+24.680938264911283,Rain,81.63896268530803,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+23.8400122948858,Clear Sky,93.92848780340486,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+22.10971620317889,Mist,81.48150793892874,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+22.36384429832678,Rain,82.15168832717674,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+24.689899684715854,Clear Sky,86.27591344230389,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+23.132976624234278,Broken Clouds,82.16705545795212,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+21.30378633091306,Rain,89.2389425675362,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+26.496120117271605,Rain,83.32896145414183,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+28.99283534539763,Few Clouds,81.01913001705148,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+26.260648790500344,Shower Rain,88.50635654230041,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+26.380955107863098,Shower Rain,94.50920610427262,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+27.7149784709878,Mist,81.19615667023248,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+23.553078218312244,Rain,94.35977892943528,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+25.530051668872,Few Clouds,91.04391846291328,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+23.722961035716008,Mist,85.99079743882605,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+21.150536349748954,Snow,85.97339531777256,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+25.50519798139465,Rain,88.47878590538924,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+21.552880665889255,Shower Rain,80.09334385145183,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+24.515898054349464,Snow,89.82484663341495,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+23.976197910336687,Clear Sky,84.88274920938203,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+26.01538709884219,Broken Clouds,82.03591367662592,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+28.420024365042742,Scattered Clouds,82.79525498628756,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+22.267337728290116,Rain,94.87088218558416,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+28.15361612717982,Few Clouds,85.49799734424126,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+22.30453420145935,Mist,82.54355457937899,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+29.57032845784026,Mist,85.43755775800285,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+28.49040216432388,Broken Clouds,77.35408792239662,Corn_(maize)___Common_rust
+18.493614853249856,Scattered Clouds,71.18201876296423,Corn_(maize)___Common_rust
+19.876207930882252,Mist,73.48166187630328,Corn_(maize)___Common_rust
+28.28905312142865,Shower Rain,67.44418767787948,Corn_(maize)___Common_rust
+23.768279114630417,Few Clouds,77.45607850299088,Corn_(maize)___Common_rust
+20.46567095483516,Snow,73.8303468516621,Corn_(maize)___Common_rust
+25.16439621133742,Shower Rain,64.92009688312015,Corn_(maize)___Common_rust
+24.009041300927155,Few Clouds,63.31061817098404,Corn_(maize)___Common_rust
+20.789897528329313,Thunderstorm,69.72915579027023,Corn_(maize)___Common_rust
+21.307485760414814,Mist,75.37199371017581,Corn_(maize)___Common_rust
+27.91007339349222,Shower Rain,78.77046962344453,Corn_(maize)___Common_rust
+19.95623922231557,Clear Sky,79.27507680591573,Corn_(maize)___Common_rust
+28.229707195395143,Rain,70.6002029310969,Corn_(maize)___Common_rust
+21.38166101581691,Mist,60.57990806658012,Corn_(maize)___Common_rust
+22.47982922163279,Rain,67.70985008255988,Corn_(maize)___Common_rust
+27.44416606745845,Broken Clouds,79.06103615033834,Corn_(maize)___Common_rust
+19.4098998418498,Few Clouds,74.12117854967191,Corn_(maize)___Common_rust
+19.710820406451607,Clear Sky,66.01781958642384,Corn_(maize)___Common_rust
+29.70901622143905,Scattered Clouds,69.19893976503468,Corn_(maize)___Common_rust
+20.379651879628277,Snow,64.53252276877448,Corn_(maize)___Common_rust
+18.634461925345885,Broken Clouds,74.27571201824401,Corn_(maize)___Common_rust
+21.999905522200507,Few Clouds,61.98430266141409,Corn_(maize)___Common_rust
+25.158837569899365,Rain,73.60273126410897,Corn_(maize)___Common_rust
+21.097884752086955,Rain,64.29271195313153,Corn_(maize)___Common_rust
+28.72851867060619,Snow,64.67412894889655,Corn_(maize)___Common_rust
+25.428223584207093,Few Clouds,78.79101843882955,Corn_(maize)___Common_rust
+22.612965047216555,Clear Sky,60.695743704232605,Corn_(maize)___Common_rust
+18.944771474395942,Mist,75.31196133132735,Corn_(maize)___Common_rust
+24.16224927049044,Snow,65.60402532608511,Corn_(maize)___Common_rust
+22.841690126041748,Clear Sky,72.91098137983427,Corn_(maize)___Common_rust
+21.600753063935862,Few Clouds,70.91735097261297,Corn_(maize)___Common_rust
+24.843235228278434,Few Clouds,79.68745415640353,Corn_(maize)___Common_rust
+23.778673704836823,Few Clouds,67.99235685669454,Corn_(maize)___Common_rust
+25.95901087106931,Shower Rain,75.97134758985341,Corn_(maize)___Common_rust
+27.818981838657372,Few Clouds,65.40498047473305,Corn_(maize)___Common_rust
+25.15465837632116,Broken Clouds,66.33264958374154,Corn_(maize)___Common_rust
+21.310471414616877,Shower Rain,61.312926845816555,Corn_(maize)___Common_rust
+24.611325081934723,Clear Sky,63.14918040965988,Corn_(maize)___Common_rust
+22.5647519712378,Rain,66.15503831172074,Corn_(maize)___Common_rust
+21.22628104323237,Rain,65.61124646010357,Corn_(maize)___Common_rust
+22.329871722203485,Thunderstorm,63.66807567177358,Corn_(maize)___Common_rust
+27.96089784805875,Rain,72.89477371402725,Corn_(maize)___Common_rust
+20.683193008191378,Broken Clouds,63.11186504751373,Corn_(maize)___Common_rust
+28.961202180919194,Snow,61.934267180677516,Corn_(maize)___Common_rust
+21.15410435995656,Broken Clouds,64.09223032143811,Corn_(maize)___Common_rust
+21.703548032300915,Snow,74.21172145662024,Corn_(maize)___Common_rust
+21.76398099103302,Few Clouds,73.68072366184265,Corn_(maize)___Common_rust
+28.353871161983584,Broken Clouds,65.0628715978061,Corn_(maize)___Common_rust
+20.51671225082996,Clear Sky,75.18112557305784,Corn_(maize)___Common_rust
+20.942358758848226,Mist,77.4529005322762,Corn_(maize)___Common_rust
+21.55703122316166,Thunderstorm,99.03531780383166,Corn_(maize)___Northern_Leaf_Blight
+24.673822619248433,Shower Rain,92.47172351159597,Corn_(maize)___Northern_Leaf_Blight
+20.223020797165287,Broken Clouds,91.20165168588245,Corn_(maize)___Northern_Leaf_Blight
+21.963720987608937,Rain,96.08839954889837,Corn_(maize)___Northern_Leaf_Blight
+24.943636878065394,Snow,97.77232517215687,Corn_(maize)___Northern_Leaf_Blight
+26.27171331116606,Scattered Clouds,93.18331336130456,Corn_(maize)___Northern_Leaf_Blight
+26.36775578954553,Few Clouds,92.60917068124806,Corn_(maize)___Northern_Leaf_Blight
+20.570377809513662,Shower Rain,93.1822830797755,Corn_(maize)___Northern_Leaf_Blight
+20.924440684594188,Thunderstorm,95.09882176307875,Corn_(maize)___Northern_Leaf_Blight
+20.7796837486505,Shower Rain,94.31951693838218,Corn_(maize)___Northern_Leaf_Blight
+26.47204493237748,Scattered Clouds,96.72956743220965,Corn_(maize)___Northern_Leaf_Blight
+25.145756775916343,Shower Rain,95.63641157683944,Corn_(maize)___Northern_Leaf_Blight
+18.86895535794077,Rain,91.93279747778888,Corn_(maize)___Northern_Leaf_Blight
+21.619145038748798,Clear Sky,93.51266308244982,Corn_(maize)___Northern_Leaf_Blight
+21.239715448024267,Mist,98.0406371808264,Corn_(maize)___Northern_Leaf_Blight
+22.884611890300867,Thunderstorm,92.35261518406263,Corn_(maize)___Northern_Leaf_Blight
+22.800996269109916,Few Clouds,99.39684755983191,Corn_(maize)___Northern_Leaf_Blight
+24.99776347827827,Thunderstorm,90.55859490645535,Corn_(maize)___Northern_Leaf_Blight
+18.27582843761084,Snow,91.52686072546253,Corn_(maize)___Northern_Leaf_Blight
+21.111122249446634,Snow,95.36111808041505,Corn_(maize)___Northern_Leaf_Blight
+18.89531370924499,Rain,96.23890232012587,Corn_(maize)___Northern_Leaf_Blight
+26.78317607858083,Clear Sky,95.9143769625424,Corn_(maize)___Northern_Leaf_Blight
+20.86028703761071,Few Clouds,97.88964784263608,Corn_(maize)___Northern_Leaf_Blight
+26.234551143851306,Scattered Clouds,95.05758096778628,Corn_(maize)___Northern_Leaf_Blight
+21.603542317931975,Snow,98.70484929397375,Corn_(maize)___Northern_Leaf_Blight
+20.845939470208748,Clear Sky,96.62641804003567,Corn_(maize)___Northern_Leaf_Blight
+20.69452723583756,Rain,98.43024461482074,Corn_(maize)___Northern_Leaf_Blight
+19.339690259884225,Rain,95.69145825077288,Corn_(maize)___Northern_Leaf_Blight
+20.63338020745328,Clear Sky,90.44125859224704,Corn_(maize)___Northern_Leaf_Blight
+23.985997833714887,Few Clouds,95.98025052186857,Corn_(maize)___Northern_Leaf_Blight
+21.534028875129046,Clear Sky,96.0974217970158,Corn_(maize)___Northern_Leaf_Blight
+22.286970864238448,Shower Rain,91.10014622515078,Corn_(maize)___Northern_Leaf_Blight
+18.15793258956673,Broken Clouds,93.42454767651523,Corn_(maize)___Northern_Leaf_Blight
+19.518457726358434,Thunderstorm,99.67739238862269,Corn_(maize)___Northern_Leaf_Blight
+23.079766524442952,Mist,99.38525993618747,Corn_(maize)___Northern_Leaf_Blight
+25.686483167175897,Scattered Clouds,91.05702481836754,Corn_(maize)___Northern_Leaf_Blight
+23.361011267176288,Clear Sky,91.43207560580862,Corn_(maize)___Northern_Leaf_Blight
+20.675316474315252,Clear Sky,96.57273435504545,Corn_(maize)___Northern_Leaf_Blight
+24.676158663357466,Thunderstorm,99.85564500507908,Corn_(maize)___Northern_Leaf_Blight
+23.189942288650222,Mist,90.29561082326961,Corn_(maize)___Northern_Leaf_Blight
+19.230419280069246,Broken Clouds,98.7418113947952,Corn_(maize)___Northern_Leaf_Blight
+25.75774703264258,Clear Sky,98.68990126983711,Corn_(maize)___Northern_Leaf_Blight
+25.75195488149496,Thunderstorm,99.14211067710096,Corn_(maize)___Northern_Leaf_Blight
+20.302888390526167,Broken Clouds,98.39864541037092,Corn_(maize)___Northern_Leaf_Blight
+23.558515741688343,Mist,92.3616341821126,Corn_(maize)___Northern_Leaf_Blight
+25.228250280855352,Shower Rain,95.17806442923013,Corn_(maize)___Northern_Leaf_Blight
+25.583191152762314,Snow,92.19017987295518,Corn_(maize)___Northern_Leaf_Blight
+20.823447233869818,Clear Sky,98.87726784581112,Corn_(maize)___Northern_Leaf_Blight
+22.807937462188985,Snow,92.36238935088033,Corn_(maize)___Northern_Leaf_Blight
+21.56094876272989,Scattered Clouds,91.53424049506752,Corn_(maize)___Northern_Leaf_Blight
+20.062906815154058,Snow,60.76920470060409,Corn_(maize)___healthy
+25.70350271768995,Mist,65.35717378831406,Corn_(maize)___healthy
+24.30679825051256,Thunderstorm,66.1097401017978,Corn_(maize)___healthy
+24.291017087586873,Rain,53.27296853633219,Corn_(maize)___healthy
+24.098795772096526,Scattered Clouds,67.74791122033972,Corn_(maize)___healthy
+20.27016274314597,Thunderstorm,54.6889473356668,Corn_(maize)___healthy
+27.428328513332026,Thunderstorm,53.72516377209987,Corn_(maize)___healthy
+25.711226010507847,Clear Sky,63.036060615156174,Corn_(maize)___healthy
+28.408290210337125,Shower Rain,55.28920237924086,Corn_(maize)___healthy
+18.982930144292684,Clear Sky,50.20198208973744,Corn_(maize)___healthy
+19.254008821387945,Rain,52.31668787572265,Corn_(maize)___healthy
+26.508021979757654,Rain,58.810535365192045,Corn_(maize)___healthy
+22.629535077091177,Thunderstorm,56.060814864451736,Corn_(maize)___healthy
+27.692054752367834,Scattered Clouds,63.68761987551253,Corn_(maize)___healthy
+24.407010433615756,Shower Rain,59.0214257072447,Corn_(maize)___healthy
+20.14228343461555,Few Clouds,62.66635733553814,Corn_(maize)___healthy
+25.880313875706623,Snow,54.177979176015846,Corn_(maize)___healthy
+27.993837007165336,Broken Clouds,68.77567594119799,Corn_(maize)___healthy
+24.928507246616064,Few Clouds,69.08719411884225,Corn_(maize)___healthy
+20.8655723485259,Snow,63.8616187104863,Corn_(maize)___healthy
+19.119118795581695,Broken Clouds,53.69251782748859,Corn_(maize)___healthy
+19.679384557161463,Snow,65.99957287026908,Corn_(maize)___healthy
+20.266446371999905,Rain,64.62878278520161,Corn_(maize)___healthy
+29.88153127633743,Clear Sky,61.878027196071876,Corn_(maize)___healthy
+18.694223172232068,Broken Clouds,56.5751739507785,Corn_(maize)___healthy
+29.779825111843166,Few Clouds,69.06068201955372,Corn_(maize)___healthy
+24.488840620115894,Mist,61.16214803883962,Corn_(maize)___healthy
+18.385356531072304,Clear Sky,53.595256955926395,Corn_(maize)___healthy
+25.591534741704727,Rain,64.86102588989982,Corn_(maize)___healthy
+20.476956578698097,Broken Clouds,51.974238755158865,Corn_(maize)___healthy
+20.761374625856284,Rain,56.623746993117365,Corn_(maize)___healthy
+28.108273350263747,Snow,59.37709936089386,Corn_(maize)___healthy
+19.816967849729142,Rain,62.3299103502477,Corn_(maize)___healthy
+20.262813109136978,Rain,59.262206484769465,Corn_(maize)___healthy
+18.2058795974677,Thunderstorm,59.681383604781004,Corn_(maize)___healthy
+22.225881996036414,Rain,54.413607942984974,Corn_(maize)___healthy
+18.859746200198543,Shower Rain,51.80121163063658,Corn_(maize)___healthy
+25.95803439324651,Snow,65.75475355410506,Corn_(maize)___healthy
+27.685766400772337,Scattered Clouds,64.68028292986003,Corn_(maize)___healthy
+20.8867749706032,Clear Sky,55.219129160452134,Corn_(maize)___healthy
+27.52830082675535,Clear Sky,56.706952612230225,Corn_(maize)___healthy
+18.64354557377532,Scattered Clouds,68.80644747534639,Corn_(maize)___healthy
+25.55450918341484,Clear Sky,53.53040032284207,Corn_(maize)___healthy
+27.505384602693614,Clear Sky,59.15534909508929,Corn_(maize)___healthy
+26.73285060137368,Clear Sky,59.47207777853182,Corn_(maize)___healthy
+19.10373941529349,Rain,50.10591803354901,Corn_(maize)___healthy
+22.657289671185517,Mist,64.2982858460443,Corn_(maize)___healthy
+23.434525812101615,Scattered Clouds,53.932252874010274,Corn_(maize)___healthy
+19.65136683073348,Snow,63.96743549932986,Corn_(maize)___healthy
+26.64703048441747,Scattered Clouds,63.74897878681394,Corn_(maize)___healthy
+20.506331120728234,Rain,74.6502360848251,Grape___Black_rot
+23.285908932085913,Rain,84.58645046288167,Grape___Black_rot
+21.874895544775292,Broken Clouds,78.68061742189218,Grape___Black_rot
+21.124280663527358,Shower Rain,73.32356139012441,Grape___Black_rot
+21.339231316354393,Few Clouds,84.02995809568858,Grape___Black_rot
+26.1302981600794,Thunderstorm,73.06701568111046,Grape___Black_rot
+20.82554154777087,Scattered Clouds,78.87191371623278,Grape___Black_rot
+23.59205212981618,Clear Sky,73.4895585460357,Grape___Black_rot
+24.21961499465199,Shower Rain,70.5789130557302,Grape___Black_rot
+20.783447003764827,Snow,81.16857801650782,Grape___Black_rot
+24.945145586271952,Clear Sky,73.07113798948761,Grape___Black_rot
+21.36777621050165,Clear Sky,76.18108701340854,Grape___Black_rot
+23.69366091437472,Snow,77.32803185540791,Grape___Black_rot
+23.4884273771944,Broken Clouds,75.37465114174881,Grape___Black_rot
+26.26959339812751,Snow,73.01281619233804,Grape___Black_rot
+22.657155824283187,Clear Sky,81.14890006857722,Grape___Black_rot
+20.628239423585498,Broken Clouds,70.3105613725696,Grape___Black_rot
+26.408015144073563,Scattered Clouds,75.01065238004111,Grape___Black_rot
+26.30925274263093,Few Clouds,81.01354522155282,Grape___Black_rot
+24.813912650076713,Snow,73.77522890399966,Grape___Black_rot
+24.92005167455705,Snow,79.2894276272534,Grape___Black_rot
+22.548257539612464,Broken Clouds,73.26654446301926,Grape___Black_rot
+25.12971984145716,Few Clouds,77.30695404969087,Grape___Black_rot
+25.870700446773167,Few Clouds,71.77395583271954,Grape___Black_rot
+21.573616679442424,Thunderstorm,76.58268354254534,Grape___Black_rot
+20.5579186082784,Broken Clouds,72.2580408755672,Grape___Black_rot
+25.219431850564284,Thunderstorm,76.96420107623169,Grape___Black_rot
+21.46451841135501,Scattered Clouds,79.90055933475473,Grape___Black_rot
+20.807936137832314,Few Clouds,74.4542136069447,Grape___Black_rot
+23.35736922208048,Scattered Clouds,80.78761014494324,Grape___Black_rot
+25.415330115872695,Snow,73.47491017759448,Grape___Black_rot
+23.647205913124786,Broken Clouds,73.99203762143722,Grape___Black_rot
+26.775877460184283,Broken Clouds,73.06845435671346,Grape___Black_rot
+21.778518217408106,Snow,80.10319552125524,Grape___Black_rot
+22.505836703872554,Scattered Clouds,73.25654724014038,Grape___Black_rot
+25.02278886951039,Rain,72.73980090773269,Grape___Black_rot
+24.07790529512585,Few Clouds,71.9659945001878,Grape___Black_rot
+25.329326564648763,Thunderstorm,84.81003072003378,Grape___Black_rot
+22.30293220864638,Scattered Clouds,81.13012603911446,Grape___Black_rot
+22.41013633009368,Scattered Clouds,79.70234916641117,Grape___Black_rot
+26.31260997347299,Shower Rain,71.82385843342705,Grape___Black_rot
+23.22941849674044,Rain,80.6813752758605,Grape___Black_rot
+26.727364376052318,Rain,84.43816298899583,Grape___Black_rot
+23.702827339830154,Few Clouds,71.50734803239847,Grape___Black_rot
+21.09590961420353,Few Clouds,71.7374306875856,Grape___Black_rot
+21.988525242816852,Broken Clouds,79.16161334405352,Grape___Black_rot
+22.58709645968287,Rain,72.40264248790186,Grape___Black_rot
+23.48751702791889,Few Clouds,78.67345151378665,Grape___Black_rot
+21.079921733735617,Rain,78.26324638664377,Grape___Black_rot
+26.099005141739333,Scattered Clouds,74.03182161403467,Grape___Black_rot
+26.751215984085043,Clear Sky,66.85583766319199,Grape___Esca_(Black_Measles)
+33.07175001855368,Clear Sky,51.08653236594524,Grape___Esca_(Black_Measles)
+33.233880638639405,Scattered Clouds,60.94494543498947,Grape___Esca_(Black_Measles)
+26.12961027573343,Rain,58.49188631655804,Grape___Esca_(Black_Measles)
+26.285787799416823,Snow,57.49912302512864,Grape___Esca_(Black_Measles)
+26.29437417942386,Rain,56.81349894022784,Grape___Esca_(Black_Measles)
+25.056816438968294,Few Clouds,60.78276249483463,Grape___Esca_(Black_Measles)
+29.49140129482183,Rain,64.19237292337743,Grape___Esca_(Black_Measles)
+27.11295551943246,Rain,64.39154481516933,Grape___Esca_(Black_Measles)
+28.574883483617,Broken Clouds,68.9797418384952,Grape___Esca_(Black_Measles)
+29.91262364288289,Shower Rain,58.01272277357003,Grape___Esca_(Black_Measles)
+34.55466549192641,Snow,64.55202167104875,Grape___Esca_(Black_Measles)
+26.749031396131155,Mist,69.53110867340325,Grape___Esca_(Black_Measles)
+33.63765878127676,Clear Sky,53.95038001304041,Grape___Esca_(Black_Measles)
+28.043992863864176,Few Clouds,63.790800183161465,Grape___Esca_(Black_Measles)
+32.88065368236999,Clear Sky,50.53018074403044,Grape___Esca_(Black_Measles)
+31.196014534733756,Rain,68.5849671985401,Grape___Esca_(Black_Measles)
+31.460871568093847,Scattered Clouds,53.94793846289769,Grape___Esca_(Black_Measles)
+25.45271113888916,Scattered Clouds,64.35163720836124,Grape___Esca_(Black_Measles)
+33.595746361056804,Few Clouds,51.546562656470435,Grape___Esca_(Black_Measles)
+27.26746945368435,Shower Rain,68.39098794771229,Grape___Esca_(Black_Measles)
+32.36155117221409,Broken Clouds,60.729237026298186,Grape___Esca_(Black_Measles)
+29.54749762524412,Mist,57.99088410115332,Grape___Esca_(Black_Measles)
+32.24066086450131,Snow,68.60118545606733,Grape___Esca_(Black_Measles)
+34.09600275133732,Rain,58.03752678288116,Grape___Esca_(Black_Measles)
+33.274964382754995,Few Clouds,66.75348184016445,Grape___Esca_(Black_Measles)
+26.491081324764238,Rain,50.20816506538878,Grape___Esca_(Black_Measles)
+30.77061778266172,Shower Rain,58.278548052152736,Grape___Esca_(Black_Measles)
+31.026094200781717,Broken Clouds,58.92784921467538,Grape___Esca_(Black_Measles)
+27.46042181600737,Clear Sky,69.49672415438462,Grape___Esca_(Black_Measles)
+29.537603159247077,Rain,55.38842363388469,Grape___Esca_(Black_Measles)
+33.764868868273986,Thunderstorm,51.93155934202602,Grape___Esca_(Black_Measles)
+31.54299593744234,Few Clouds,60.26478863778762,Grape___Esca_(Black_Measles)
+30.968725997701544,Snow,58.30439599742198,Grape___Esca_(Black_Measles)
+25.342727334552933,Snow,57.7054582117816,Grape___Esca_(Black_Measles)
+31.430442974669585,Rain,57.80430001847043,Grape___Esca_(Black_Measles)
+27.079463520161653,Thunderstorm,56.10401006596035,Grape___Esca_(Black_Measles)
+28.754468483445244,Broken Clouds,61.17449548082372,Grape___Esca_(Black_Measles)
+34.87784722794528,Broken Clouds,59.88089279908727,Grape___Esca_(Black_Measles)
+26.57955407630967,Thunderstorm,59.435891572967165,Grape___Esca_(Black_Measles)
+33.875324109269286,Few Clouds,52.517524640762005,Grape___Esca_(Black_Measles)
+31.799054832842703,Broken Clouds,57.226132398984305,Grape___Esca_(Black_Measles)
+28.974666798214514,Broken Clouds,60.13601094589339,Grape___Esca_(Black_Measles)
+25.851656082051438,Thunderstorm,55.32905004146209,Grape___Esca_(Black_Measles)
+25.73227296289635,Thunderstorm,56.34569623340019,Grape___Esca_(Black_Measles)
+29.636884132551316,Mist,66.33046869435759,Grape___Esca_(Black_Measles)
+29.424906211478042,Broken Clouds,50.36970571826805,Grape___Esca_(Black_Measles)
+31.35330452387678,Scattered Clouds,69.03160308115294,Grape___Esca_(Black_Measles)
+33.36026899608459,Few Clouds,67.15571241977598,Grape___Esca_(Black_Measles)
+25.599398269670303,Broken Clouds,60.92274788595317,Grape___Esca_(Black_Measles)
+27.825953979604723,Shower Rain,72.31868453537173,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+27.439769728752477,Thunderstorm,72.34293910993391,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+23.53062185699595,Broken Clouds,73.89830615364673,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+22.34175743560506,Shower Rain,75.509811357801,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+25.878461001878303,Few Clouds,74.23553155901078,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+26.176995152238824,Rain,82.88644359413759,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+21.101937164094828,Rain,71.15139801859686,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+25.18661026658844,Few Clouds,76.35324502033353,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+26.73121473116115,Clear Sky,72.80919835864817,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+21.995060098980417,Rain,83.93090568202693,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+20.697895409641614,Snow,82.70966545973232,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+22.110826574300148,Thunderstorm,82.04235736329491,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+21.789751688249652,Rain,77.52744440621686,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+27.02129167283722,Shower Rain,84.6874020167016,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+26.984131274066094,Rain,71.74356568819609,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+24.364279092035325,Rain,81.81281386558513,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+21.327460852246354,Clear Sky,76.72726704811556,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+21.652443069029033,Rain,76.45693080719388,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+27.59927019684421,Rain,77.6071416416342,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+20.733143253866736,Shower Rain,71.84701970181752,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+25.03480513743712,Broken Clouds,71.78972489129103,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+22.713748504887594,Rain,71.30620130896219,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+25.128192522273434,Thunderstorm,71.00469106933257,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+26.33111365659005,Few Clouds,77.08557107614418,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+24.351787460098944,Mist,82.93039756685735,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+24.693249586914423,Thunderstorm,73.10834417859398,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+25.472164793612198,Rain,72.92609949182642,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+21.665628428735058,Shower Rain,75.89609039347661,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+20.536155394513553,Rain,72.8546759042062,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+26.85621559146508,Snow,70.40654434032517,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+24.188254731242637,Few Clouds,75.40253435478262,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+27.446197311496306,Broken Clouds,72.80999903855185,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+20.8911557723838,Few Clouds,70.68537283643288,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+22.011224779811105,Mist,76.85563175208125,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+22.219021157955112,Shower Rain,83.1360059119251,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+21.122569980020394,Broken Clouds,78.86933205761112,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+24.091780813950717,Scattered Clouds,76.94683839126957,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+24.071595515816664,Shower Rain,73.90539837795663,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+26.677818223570966,Rain,75.76876530281291,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+26.351457317639863,Broken Clouds,84.23762522117842,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+20.815083281142087,Thunderstorm,82.88191404274198,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+23.836708828437665,Snow,78.89765480300333,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+27.859205983212668,Clear Sky,75.2358247274729,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+25.639515341431228,Clear Sky,76.4654344665166,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+26.077381103422745,Scattered Clouds,84.4599620316922,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+21.090780773753767,Broken Clouds,82.08264754207511,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+20.152266722265654,Mist,77.80451487118135,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+22.607592000715684,Mist,70.3519355472584,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+25.566914325079722,Thunderstorm,72.3547585192907,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+20.19999867371601,Scattered Clouds,74.49192894584209,Grape___Leaf_blight_(Isariopsis_Leaf_Spot)
+20.69429761153671,Snow,45.40584096242523,Grape___healthy
+19.716277088004492,Few Clouds,48.47582478927266,Grape___healthy
+25.88091956566324,Clear Sky,45.24090041582291,Grape___healthy
+21.8320505205431,Thunderstorm,57.55921346671673,Grape___healthy
+23.3282237029046,Scattered Clouds,56.74998052285804,Grape___healthy
+24.235428985808696,Snow,46.19115623707603,Grape___healthy
+18.132544861646913,Thunderstorm,40.10662615277771,Grape___healthy
+23.53721532958846,Mist,55.25144662467264,Grape___healthy
+25.42560885533461,Mist,43.70428876577116,Grape___healthy
+26.162731342114476,Thunderstorm,51.43356880837303,Grape___healthy
+25.669345349574286,Mist,40.11461796277439,Grape___healthy
+19.137661605213058,Rain,50.13291192624905,Grape___healthy
+25.451227327518136,Scattered Clouds,50.0528789026499,Grape___healthy
+19.830230033728597,Scattered Clouds,45.890278656066265,Grape___healthy
+25.59932124447921,Clear Sky,43.610519001970324,Grape___healthy
+21.211515834525322,Snow,52.5151252272345,Grape___healthy
+18.80325488943342,Scattered Clouds,57.59524918957985,Grape___healthy
+20.64540821096461,Mist,45.21301878454676,Grape___healthy
+21.014447829299304,Scattered Clouds,44.47456378091993,Grape___healthy
+19.8675495519014,Few Clouds,47.788335511347604,Grape___healthy
+27.568666830174564,Few Clouds,51.94517723575306,Grape___healthy
+25.813509428143718,Thunderstorm,53.33516157226001,Grape___healthy
+25.482423523300632,Shower Rain,48.26717533574777,Grape___healthy
+21.98419088815863,Clear Sky,49.49286269686139,Grape___healthy
+26.8895748075268,Scattered Clouds,41.791594567423736,Grape___healthy
+21.572316903181882,Broken Clouds,46.607719680945976,Grape___healthy
+21.66629715073086,Snow,43.85468347867478,Grape___healthy
+23.205126570190973,Snow,57.26084246273208,Grape___healthy
+24.6931287121982,Snow,49.498634001262005,Grape___healthy
+26.20543502787497,Scattered Clouds,56.52372800665153,Grape___healthy
+25.041096675882567,Scattered Clouds,51.53295406707548,Grape___healthy
+18.615266364382677,Clear Sky,57.19687904806487,Grape___healthy
+22.38960130503686,Broken Clouds,43.215830610051825,Grape___healthy
+18.311349095951616,Clear Sky,54.890722103883306,Grape___healthy
+26.13217426040406,Shower Rain,51.70590863073163,Grape___healthy
+18.507308246112853,Scattered Clouds,52.79625822000023,Grape___healthy
+21.853190099043047,Snow,50.07996845622197,Grape___healthy
+22.690169069264666,Rain,44.36321036549835,Grape___healthy
+21.598566172969242,Snow,50.964148457726466,Grape___healthy
+26.50527970449672,Thunderstorm,41.25470410555218,Grape___healthy
+18.530334391907527,Broken Clouds,53.80637713178697,Grape___healthy
+26.80546800106705,Clear Sky,59.999927280034704,Grape___healthy
+23.172420935962467,Scattered Clouds,54.940073666343146,Grape___healthy
+22.3836415237924,Mist,52.75921390650647,Grape___healthy
+21.879208836023324,Rain,57.118135595237085,Grape___healthy
+25.77136201120662,Shower Rain,51.2059217390827,Grape___healthy
+20.718381256858425,Shower Rain,41.806521469688455,Grape___healthy
+24.299433216895803,Shower Rain,46.58881545743078,Grape___healthy
+24.767380868229058,Thunderstorm,40.32280001051042,Grape___healthy
+21.590393489285926,Few Clouds,42.44161229075399,Grape___healthy
+31.57216075535806,Few Clouds,68.96551552995062,Orange___Haunglongbing_(Citrus_greening)
+27.217069947698405,Snow,68.15438342394035,Orange___Haunglongbing_(Citrus_greening)
+24.597777094036413,Shower Rain,77.57323104998132,Orange___Haunglongbing_(Citrus_greening)
+29.516874405368476,Shower Rain,66.08607020787865,Orange___Haunglongbing_(Citrus_greening)
+28.313947398456023,Scattered Clouds,79.78747100949316,Orange___Haunglongbing_(Citrus_greening)
+28.19475407157301,Broken Clouds,71.53792598323425,Orange___Haunglongbing_(Citrus_greening)
+31.61996176721563,Rain,76.816781719135,Orange___Haunglongbing_(Citrus_greening)
+26.402972252695328,Few Clouds,69.79763662730718,Orange___Haunglongbing_(Citrus_greening)
+31.0346894381422,Snow,78.06709085701664,Orange___Haunglongbing_(Citrus_greening)
+31.186761390944238,Clear Sky,64.38751811487174,Orange___Haunglongbing_(Citrus_greening)
+29.452144680071207,Broken Clouds,77.80459778343285,Orange___Haunglongbing_(Citrus_greening)
+28.763260086867007,Rain,77.06397415140736,Orange___Haunglongbing_(Citrus_greening)
+29.116242578341996,Few Clouds,64.6308611616665,Orange___Haunglongbing_(Citrus_greening)
+30.217494215325836,Few Clouds,71.7030406107015,Orange___Haunglongbing_(Citrus_greening)
+31.620729383327163,Clear Sky,66.26412818403162,Orange___Haunglongbing_(Citrus_greening)
+25.162107833307605,Shower Rain,79.82632850321184,Orange___Haunglongbing_(Citrus_greening)
+29.151101434838793,Snow,74.91120521629044,Orange___Haunglongbing_(Citrus_greening)
+28.611620805336827,Rain,72.07769411868401,Orange___Haunglongbing_(Citrus_greening)
+24.496917580100117,Mist,64.69585905634892,Orange___Haunglongbing_(Citrus_greening)
+24.356012113556428,Rain,61.29054582305767,Orange___Haunglongbing_(Citrus_greening)
+26.928315319540438,Broken Clouds,60.34974104066384,Orange___Haunglongbing_(Citrus_greening)
+29.490983352852034,Shower Rain,79.63272232361514,Orange___Haunglongbing_(Citrus_greening)
+26.534237030209113,Scattered Clouds,69.3285606859269,Orange___Haunglongbing_(Citrus_greening)
+27.318024652021556,Thunderstorm,62.266998664447165,Orange___Haunglongbing_(Citrus_greening)
+25.43321839946652,Rain,72.00938951371838,Orange___Haunglongbing_(Citrus_greening)
+25.47761450376946,Broken Clouds,64.97301167147639,Orange___Haunglongbing_(Citrus_greening)
+28.973823227875112,Rain,76.71765770687938,Orange___Haunglongbing_(Citrus_greening)
+29.325222139331053,Clear Sky,66.98148829935576,Orange___Haunglongbing_(Citrus_greening)
+27.578248563270847,Snow,77.0572436171814,Orange___Haunglongbing_(Citrus_greening)
+24.2990515830702,Shower Rain,68.01891456406412,Orange___Haunglongbing_(Citrus_greening)
+26.637774848139205,Mist,61.398906179039855,Orange___Haunglongbing_(Citrus_greening)
+31.00510188763563,Few Clouds,64.24615758452966,Orange___Haunglongbing_(Citrus_greening)
+27.89135511117447,Thunderstorm,61.172297175393304,Orange___Haunglongbing_(Citrus_greening)
+29.010561153108917,Snow,78.37784690019902,Orange___Haunglongbing_(Citrus_greening)
+27.348997324737464,Snow,72.33000583936668,Orange___Haunglongbing_(Citrus_greening)
+25.60889136835023,Few Clouds,75.77079459216694,Orange___Haunglongbing_(Citrus_greening)
+24.9041671004298,Thunderstorm,74.07405750660521,Orange___Haunglongbing_(Citrus_greening)
+27.75925358626295,Rain,76.39945837580372,Orange___Haunglongbing_(Citrus_greening)
+30.516538472763028,Snow,71.005122307027,Orange___Haunglongbing_(Citrus_greening)
+27.275793336674212,Scattered Clouds,67.9958094296425,Orange___Haunglongbing_(Citrus_greening)
+29.176381316175238,Mist,72.82460072539787,Orange___Haunglongbing_(Citrus_greening)
+31.28381283341989,Snow,61.46263476212972,Orange___Haunglongbing_(Citrus_greening)
+24.188682289618033,Snow,61.969879937817424,Orange___Haunglongbing_(Citrus_greening)
+29.53848664037873,Scattered Clouds,71.20781262235292,Orange___Haunglongbing_(Citrus_greening)
+25.310548936035417,Mist,76.56053263558238,Orange___Haunglongbing_(Citrus_greening)
+29.37175957260864,Few Clouds,60.350108430248866,Orange___Haunglongbing_(Citrus_greening)
+24.2345417375076,Broken Clouds,72.21542724984178,Orange___Haunglongbing_(Citrus_greening)
+27.256654647240257,Clear Sky,71.36680402779494,Orange___Haunglongbing_(Citrus_greening)
+24.867159766334606,Few Clouds,71.69193924345882,Orange___Haunglongbing_(Citrus_greening)
+26.072930009825804,Mist,70.2049981003878,Orange___Haunglongbing_(Citrus_greening)
+22.344716726139517,Snow,77.7051289698689,Peach___Bacterial_spot
+22.951621389439723,Few Clouds,72.44209056739979,Peach___Bacterial_spot
+24.92382408074287,Rain,79.50813350117623,Peach___Bacterial_spot
+24.712513676387445,Rain,81.03159033096432,Peach___Bacterial_spot
+27.073823495405108,Snow,73.20142440036393,Peach___Bacterial_spot
+22.543949283497685,Clear Sky,73.1744842672032,Peach___Bacterial_spot
+24.182921819589424,Few Clouds,75.66101388819872,Peach___Bacterial_spot
+26.54021303030551,Scattered Clouds,82.3404573271647,Peach___Bacterial_spot
+27.04939611434491,Clear Sky,75.5563733453388,Peach___Bacterial_spot
+23.186119148559214,Mist,78.78360391031644,Peach___Bacterial_spot
+23.134106090821945,Clear Sky,80.67979237575354,Peach___Bacterial_spot
+22.81425458806961,Thunderstorm,76.45151336492353,Peach___Bacterial_spot
+23.937066751951914,Scattered Clouds,81.35663359623831,Peach___Bacterial_spot
+26.577307431790206,Broken Clouds,71.50817839514234,Peach___Bacterial_spot
+22.108415505443862,Rain,83.99847681883482,Peach___Bacterial_spot
+27.96114122934556,Clear Sky,81.6350421839147,Peach___Bacterial_spot
+26.509675947986366,Snow,76.0596387492515,Peach___Bacterial_spot
+26.931034886542605,Scattered Clouds,83.59662794510206,Peach___Bacterial_spot
+27.387514808974107,Few Clouds,75.4585951582551,Peach___Bacterial_spot
+24.307644450374916,Scattered Clouds,70.27676549753187,Peach___Bacterial_spot
+26.537639506219648,Thunderstorm,78.35601798622929,Peach___Bacterial_spot
+25.526777646658566,Thunderstorm,80.9837069622741,Peach___Bacterial_spot
+22.648112222511106,Clear Sky,83.6716305800955,Peach___Bacterial_spot
+27.17360416223645,Shower Rain,77.83711922541754,Peach___Bacterial_spot
+25.85365810285048,Scattered Clouds,74.31267596942807,Peach___Bacterial_spot
+27.801466737201473,Clear Sky,72.8961934161641,Peach___Bacterial_spot
+24.128015243759528,Shower Rain,70.99984732200188,Peach___Bacterial_spot
+22.51967061052865,Thunderstorm,74.49996952119636,Peach___Bacterial_spot
+27.229138243820433,Rain,73.17229694056326,Peach___Bacterial_spot
+26.490541879863663,Broken Clouds,84.70359034702719,Peach___Bacterial_spot
+26.409092649539108,Few Clouds,70.30760963340737,Peach___Bacterial_spot
+24.78775957549013,Snow,78.42503384447895,Peach___Bacterial_spot
+25.583648455640642,Mist,81.34056298206006,Peach___Bacterial_spot
+26.05092823379385,Snow,78.77598263642825,Peach___Bacterial_spot
+23.541320173850494,Snow,79.14297343040514,Peach___Bacterial_spot
+26.53679492166229,Scattered Clouds,72.88960832699453,Peach___Bacterial_spot
+22.221607467535065,Few Clouds,83.90403282854733,Peach___Bacterial_spot
+23.447429849059752,Few Clouds,75.24191147032413,Peach___Bacterial_spot
+27.390892336484935,Snow,73.9620819066778,Peach___Bacterial_spot
+26.88758113507997,Broken Clouds,80.58417535192278,Peach___Bacterial_spot
+27.719972654165794,Broken Clouds,81.00303531704934,Peach___Bacterial_spot
+24.80981018012329,Clear Sky,84.39605978281523,Peach___Bacterial_spot
+24.98037912960472,Rain,71.74078676108039,Peach___Bacterial_spot
+23.66380457079292,Few Clouds,78.60408705294998,Peach___Bacterial_spot
+27.549563500709382,Mist,71.58806834051283,Peach___Bacterial_spot
+25.594557742234212,Rain,72.23402161384668,Peach___Bacterial_spot
+26.321322222989544,Few Clouds,78.99168700310538,Peach___Bacterial_spot
+22.95758852314521,Rain,81.89579171727351,Peach___Bacterial_spot
+27.04063871732136,Snow,76.34976524656359,Peach___Bacterial_spot
+23.442533476030892,Rain,82.22547649962702,Peach___Bacterial_spot
+25.472195519039992,Rain,61.034319227454255,Peach___healthy
+23.951306254683143,Mist,54.690930274490476,Peach___healthy
+19.64685284873297,Shower Rain,57.38850436095981,Peach___healthy
+18.930145698847756,Few Clouds,52.70469919258555,Peach___healthy
+23.342278962736508,Mist,68.6067139642786,Peach___healthy
+24.966162875510243,Broken Clouds,64.00653075570357,Peach___healthy
+22.01685512991299,Clear Sky,54.25096329201679,Peach___healthy
+24.00906014466814,Snow,55.097451514420555,Peach___healthy
+19.25065404206232,Few Clouds,54.50139773604865,Peach___healthy
+20.808354845965713,Broken Clouds,52.38581998031817,Peach___healthy
+20.06802977958703,Rain,60.78216372360212,Peach___healthy
+18.625084205576456,Mist,66.99231796969303,Peach___healthy
+23.994187709935886,Scattered Clouds,60.482672101071074,Peach___healthy
+19.372944343190685,Shower Rain,59.26218536621982,Peach___healthy
+23.179183221308804,Snow,53.72963797475282,Peach___healthy
+23.362704326987917,Clear Sky,50.21192228253925,Peach___healthy
+20.01983752162494,Thunderstorm,68.03058625576908,Peach___healthy
+19.816771449731093,Broken Clouds,52.958431629555115,Peach___healthy
+25.06252087433731,Clear Sky,50.24796635321218,Peach___healthy
+22.900833161852635,Few Clouds,57.159514275837445,Peach___healthy
+18.237498864103756,Mist,62.929687587977455,Peach___healthy
+25.98484947772907,Few Clouds,61.69675016537799,Peach___healthy
+24.445573582685483,Clear Sky,55.4250321456646,Peach___healthy
+25.821337869878,Broken Clouds,64.47551000705607,Peach___healthy
+18.04251092029105,Shower Rain,65.37932006311304,Peach___healthy
+22.30381967121636,Thunderstorm,52.60955958421729,Peach___healthy
+21.814422776093423,Snow,57.63990557709356,Peach___healthy
+18.096086115990012,Thunderstorm,66.38313562936538,Peach___healthy
+21.989271842949805,Snow,60.95640945747957,Peach___healthy
+23.92698411454208,Broken Clouds,63.3366819210218,Peach___healthy
+25.20561834116357,Mist,52.80445604617998,Peach___healthy
+23.685702650103625,Broken Clouds,55.98061026558704,Peach___healthy
+23.31111961402219,Scattered Clouds,52.42352211113864,Peach___healthy
+22.58615159535463,Shower Rain,50.53452512402928,Peach___healthy
+21.362635956968784,Snow,52.29550728566732,Peach___healthy
+25.19480588683142,Scattered Clouds,57.605241037466584,Peach___healthy
+24.47241200815516,Mist,53.43605559449112,Peach___healthy
+23.911524598403677,Broken Clouds,53.517924517727074,Peach___healthy
+22.50342011857292,Clear Sky,69.94222123889199,Peach___healthy
+18.758019166575295,Clear Sky,65.40062635605811,Peach___healthy
+22.05708651127973,Thunderstorm,67.07695902098058,Peach___healthy
+21.939953537178717,Thunderstorm,53.67452726016022,Peach___healthy
+24.090880323738656,Shower Rain,60.361344337741365,Peach___healthy
+21.44438541651078,Rain,50.263935168955676,Peach___healthy
+20.385479200365673,Few Clouds,64.46735514344647,Peach___healthy
+24.16657016666112,Scattered Clouds,58.5760135972732,Peach___healthy
+24.793857566421053,Clear Sky,65.83682794830514,Peach___healthy
+22.50868155486498,Clear Sky,62.737944966667726,Peach___healthy
+24.918498392431836,Broken Clouds,64.70809077775678,Peach___healthy
+18.122673255217734,Broken Clouds,65.34176792218871,Peach___healthy
+20.07188776095883,Snow,72.55501904199072,"Pepper,_bell___Bacterial_spot"
+25.85845540778055,Snow,77.42829146605918,"Pepper,_bell___Bacterial_spot"
+22.475358911719617,Shower Rain,83.64512274162878,"Pepper,_bell___Bacterial_spot"
+20.664424353237962,Snow,70.9958361458913,"Pepper,_bell___Bacterial_spot"
+26.014107637473163,Rain,89.3887300163666,"Pepper,_bell___Bacterial_spot"
+22.224382310908393,Thunderstorm,89.68533731381613,"Pepper,_bell___Bacterial_spot"
+26.968477878864242,Shower Rain,81.58817987330593,"Pepper,_bell___Bacterial_spot"
+23.816215990382894,Thunderstorm,85.25420735416762,"Pepper,_bell___Bacterial_spot"
+29.34225021346393,Mist,79.53748919677967,"Pepper,_bell___Bacterial_spot"
+22.886799542228058,Shower Rain,86.61469939003234,"Pepper,_bell___Bacterial_spot"
+20.587408157425294,Rain,89.21087049221333,"Pepper,_bell___Bacterial_spot"
+21.158278099630834,Scattered Clouds,88.6177578626492,"Pepper,_bell___Bacterial_spot"
+25.545136928790125,Broken Clouds,85.60593169179099,"Pepper,_bell___Bacterial_spot"
+26.5054194757696,Scattered Clouds,86.56587377442838,"Pepper,_bell___Bacterial_spot"
+26.12426350291689,Scattered Clouds,79.00233991847722,"Pepper,_bell___Bacterial_spot"
+24.334316348929246,Mist,72.83927442136635,"Pepper,_bell___Bacterial_spot"
+28.051272982273957,Scattered Clouds,89.97108004245337,"Pepper,_bell___Bacterial_spot"
+29.826326398887378,Shower Rain,73.991729789526,"Pepper,_bell___Bacterial_spot"
+24.77891785790091,Snow,86.65917772631562,"Pepper,_bell___Bacterial_spot"
+20.790458686562474,Scattered Clouds,88.14619318432874,"Pepper,_bell___Bacterial_spot"
+20.709041744618087,Clear Sky,83.31186445812652,"Pepper,_bell___Bacterial_spot"
+21.67908363579319,Shower Rain,78.76293484805093,"Pepper,_bell___Bacterial_spot"
+26.205123487508885,Broken Clouds,78.85014652945932,"Pepper,_bell___Bacterial_spot"
+23.315186675888437,Rain,85.77320695113012,"Pepper,_bell___Bacterial_spot"
+25.525271665861602,Shower Rain,71.06018626026784,"Pepper,_bell___Bacterial_spot"
+22.550123157617282,Mist,77.90125788776074,"Pepper,_bell___Bacterial_spot"
+28.122938462359787,Rain,80.702774308157,"Pepper,_bell___Bacterial_spot"
+26.890862931544053,Clear Sky,82.24879705960484,"Pepper,_bell___Bacterial_spot"
+21.915290875338545,Scattered Clouds,74.39281662467458,"Pepper,_bell___Bacterial_spot"
+29.52571181624083,Few Clouds,84.55762491904443,"Pepper,_bell___Bacterial_spot"
+23.11916401417416,Scattered Clouds,72.06927699049689,"Pepper,_bell___Bacterial_spot"
+22.15640813008017,Shower Rain,82.75395865171635,"Pepper,_bell___Bacterial_spot"
+21.673486743604027,Thunderstorm,85.98898255168922,"Pepper,_bell___Bacterial_spot"
+24.052765252701086,Mist,80.01974376230548,"Pepper,_bell___Bacterial_spot"
+27.533032917029107,Broken Clouds,75.88709488407638,"Pepper,_bell___Bacterial_spot"
+29.200913676258917,Shower Rain,83.87161938293414,"Pepper,_bell___Bacterial_spot"
+23.73058864312248,Rain,76.80942528041753,"Pepper,_bell___Bacterial_spot"
+24.123797762302267,Thunderstorm,72.48398206974608,"Pepper,_bell___Bacterial_spot"
+24.645419373650203,Rain,73.0430837146993,"Pepper,_bell___Bacterial_spot"
+27.324222231794,Shower Rain,83.10158629238506,"Pepper,_bell___Bacterial_spot"
+23.54637481304981,Mist,74.20226060783477,"Pepper,_bell___Bacterial_spot"
+21.96955792708857,Shower Rain,78.72128012196596,"Pepper,_bell___Bacterial_spot"
+24.314530051008116,Shower Rain,70.66515009265044,"Pepper,_bell___Bacterial_spot"
+20.61577471494661,Rain,85.39773143367886,"Pepper,_bell___Bacterial_spot"
+27.438716595585788,Thunderstorm,70.23215516286255,"Pepper,_bell___Bacterial_spot"
+22.06696705360731,Shower Rain,70.66253289177594,"Pepper,_bell___Bacterial_spot"
+24.46153887246027,Rain,82.04163642385893,"Pepper,_bell___Bacterial_spot"
+22.36193352134844,Scattered Clouds,76.97652516281165,"Pepper,_bell___Bacterial_spot"
+28.684281942444365,Few Clouds,76.86625107130736,"Pepper,_bell___Bacterial_spot"
+23.2504871299356,Thunderstorm,84.79509928342091,"Pepper,_bell___Bacterial_spot"
+23.079181824413748,Snow,69.73165332686861,"Pepper,_bell___healthy"
+25.21140588514438,Scattered Clouds,53.418035174470795,"Pepper,_bell___healthy"
+25.955851174589306,Shower Rain,66.96434574470658,"Pepper,_bell___healthy"
+27.097347138299398,Scattered Clouds,64.85454076570969,"Pepper,_bell___healthy"
+21.7564749735379,Snow,60.111767158178246,"Pepper,_bell___healthy"
+22.65037884924969,Shower Rain,63.35367142759246,"Pepper,_bell___healthy"
+20.624291748153734,Shower Rain,54.76920455904959,"Pepper,_bell___healthy"
+28.499570397121563,Thunderstorm,55.044525228642286,"Pepper,_bell___healthy"
+27.238654473849216,Broken Clouds,63.67739368669868,"Pepper,_bell___healthy"
+26.355789325408264,Clear Sky,69.12914261343285,"Pepper,_bell___healthy"
+26.45949169020493,Mist,63.41005444897076,"Pepper,_bell___healthy"
+29.0517976799625,Snow,64.82153355458753,"Pepper,_bell___healthy"
+23.343739891540654,Rain,65.29031992379694,"Pepper,_bell___healthy"
+26.658843743750676,Clear Sky,62.51680470599248,"Pepper,_bell___healthy"
+21.821340358520942,Scattered Clouds,67.28525621932071,"Pepper,_bell___healthy"
+21.33737060150378,Thunderstorm,54.04199598626213,"Pepper,_bell___healthy"
+22.259997080574315,Shower Rain,59.908012056816304,"Pepper,_bell___healthy"
+29.743473311336203,Scattered Clouds,59.06189990537909,"Pepper,_bell___healthy"
+22.688743473346566,Broken Clouds,69.71023802385292,"Pepper,_bell___healthy"
+29.78018016197052,Broken Clouds,65.31588153807881,"Pepper,_bell___healthy"
+24.463723232361254,Broken Clouds,56.825378363779905,"Pepper,_bell___healthy"
+28.529770895822786,Clear Sky,52.112616555387746,"Pepper,_bell___healthy"
+24.50924893814429,Snow,59.012297694685465,"Pepper,_bell___healthy"
+25.559309275028884,Snow,54.2265090450074,"Pepper,_bell___healthy"
+28.420824366518506,Thunderstorm,53.533204858127995,"Pepper,_bell___healthy"
+29.57590689412557,Thunderstorm,55.458244079351026,"Pepper,_bell___healthy"
+24.551240746296745,Few Clouds,62.9057928885149,"Pepper,_bell___healthy"
+20.715074524149756,Rain,67.62672742290363,"Pepper,_bell___healthy"
+29.94719326880106,Broken Clouds,64.80231848016072,"Pepper,_bell___healthy"
+26.34765417184441,Snow,61.476587777372515,"Pepper,_bell___healthy"
+27.542943458335735,Clear Sky,52.81010242642324,"Pepper,_bell___healthy"
+27.347001875157417,Few Clouds,64.24829400487052,"Pepper,_bell___healthy"
+21.479377308189274,Scattered Clouds,55.69252655182325,"Pepper,_bell___healthy"
+29.239344619221313,Shower Rain,50.666351530379615,"Pepper,_bell___healthy"
+29.248165375348616,Shower Rain,60.295752289288586,"Pepper,_bell___healthy"
+20.280889211878495,Broken Clouds,68.64736247920543,"Pepper,_bell___healthy"
+24.789851603948467,Snow,61.169139454676746,"Pepper,_bell___healthy"
+20.10255786474943,Thunderstorm,55.705649210041955,"Pepper,_bell___healthy"
+24.470622167340032,Snow,59.79704723699074,"Pepper,_bell___healthy"
+22.285283351450435,Thunderstorm,63.21517754117506,"Pepper,_bell___healthy"
+22.232967140093198,Snow,61.25924057067775,"Pepper,_bell___healthy"
+23.41846113740187,Thunderstorm,67.50925592291873,"Pepper,_bell___healthy"
+21.337059761686607,Scattered Clouds,67.08130998491411,"Pepper,_bell___healthy"
+27.839204437195985,Clear Sky,62.692438575583324,"Pepper,_bell___healthy"
+26.999307900105695,Scattered Clouds,58.1306974364561,"Pepper,_bell___healthy"
+23.87131992277802,Mist,58.366523028350294,"Pepper,_bell___healthy"
+27.263303331507846,Thunderstorm,54.83095904423087,"Pepper,_bell___healthy"
+25.99048706057305,Shower Rain,61.97200306647233,"Pepper,_bell___healthy"
+20.214389760990347,Thunderstorm,69.47128517508693,"Pepper,_bell___healthy"
+26.239034298007716,Mist,57.922393662526915,"Pepper,_bell___healthy"
+23.207405461792018,Scattered Clouds,84.31364291623159,Potato___Early_blight
+23.573335339085318,Broken Clouds,75.61577229500112,Potato___Early_blight
+24.727750682471584,Few Clouds,76.61508448341205,Potato___Early_blight
+15.770356721431595,Mist,80.06420745235819,Potato___Early_blight
+23.35056844828952,Mist,77.2983582511013,Potato___Early_blight
+20.498770292903238,Clear Sky,73.68914804897582,Potato___Early_blight
+22.014273292260874,Thunderstorm,72.17821782231701,Potato___Early_blight
+23.510757805151794,Rain,77.97160566644482,Potato___Early_blight
+18.4674651604369,Scattered Clouds,79.47980734536773,Potato___Early_blight
+22.070303436228137,Snow,70.51214625648386,Potato___Early_blight
+23.934530288961422,Scattered Clouds,84.45242219143041,Potato___Early_blight
+15.945148435883802,Scattered Clouds,70.3361380075048,Potato___Early_blight
+22.12095029897089,Broken Clouds,80.61369822477198,Potato___Early_blight
+19.7276316394245,Clear Sky,74.98528488140548,Potato___Early_blight
+19.761813855078056,Shower Rain,82.70904741720778,Potato___Early_blight
+17.031971714795194,Scattered Clouds,81.30254164822917,Potato___Early_blight
+21.52530973049684,Mist,84.70850663489455,Potato___Early_blight
+17.383966712817696,Few Clouds,74.4334490848419,Potato___Early_blight
+24.37957682494737,Thunderstorm,80.09222138163416,Potato___Early_blight
+16.694909971246403,Snow,70.64913690418882,Potato___Early_blight
+23.539570625296015,Broken Clouds,79.25706750889152,Potato___Early_blight
+24.393915065014653,Thunderstorm,78.24988618783307,Potato___Early_blight
+23.503440599238814,Thunderstorm,78.30604591652158,Potato___Early_blight
+18.21676982517946,Thunderstorm,81.57502859581777,Potato___Early_blight
+15.129218229287783,Rain,78.00169356758784,Potato___Early_blight
+17.76510079096673,Clear Sky,72.97237993815953,Potato___Early_blight
+18.389125329217848,Rain,73.6835846637506,Potato___Early_blight
+21.812923305464555,Scattered Clouds,72.63598488946619,Potato___Early_blight
+17.17435584892362,Scattered Clouds,83.99475388026063,Potato___Early_blight
+23.623424828680843,Shower Rain,77.93978788413006,Potato___Early_blight
+19.289267706892254,Clear Sky,84.1574857849567,Potato___Early_blight
+20.84372818888001,Clear Sky,84.27564714516136,Potato___Early_blight
+16.780009927085583,Broken Clouds,71.03385769331413,Potato___Early_blight
+16.927370460942694,Scattered Clouds,72.79849653472318,Potato___Early_blight
+18.44100262903704,Mist,74.65918997224738,Potato___Early_blight
+19.240109877670967,Few Clouds,79.01865696381572,Potato___Early_blight
+23.78093172758094,Clear Sky,74.93803715544355,Potato___Early_blight
+19.676542998672645,Rain,76.70072637464557,Potato___Early_blight
+18.532623856558555,Snow,72.55657721454656,Potato___Early_blight
+20.478485926278577,Scattered Clouds,83.46009875326395,Potato___Early_blight
+23.333516603900847,Few Clouds,83.84415079300594,Potato___Early_blight
+24.941417683630362,Few Clouds,73.29970058206352,Potato___Early_blight
+18.114413092024368,Snow,79.05065852567843,Potato___Early_blight
+21.84098530526656,Clear Sky,81.00789595244193,Potato___Early_blight
+20.784475700172326,Mist,82.91280194033763,Potato___Early_blight
+23.713758408595716,Clear Sky,74.37083041353168,Potato___Early_blight
+23.158735589672798,Thunderstorm,76.0418344266927,Potato___Early_blight
+19.002767442345665,Shower Rain,82.54513521459211,Potato___Early_blight
+15.748272933532764,Mist,82.53380491560593,Potato___Early_blight
+20.587051300543358,Scattered Clouds,82.8020625549021,Potato___Early_blight
+10.699481571949349,Shower Rain,98.88474366873336,Potato___Late_blight
+14.142767951661627,Snow,95.68706420405157,Potato___Late_blight
+10.498202090788446,Broken Clouds,85.92243217139314,Potato___Late_blight
+10.736289489722587,Broken Clouds,88.21848193291933,Potato___Late_blight
+11.776448770916359,Scattered Clouds,90.45220361858468,Potato___Late_blight
+18.751496002239932,Few Clouds,86.85977968681644,Potato___Late_blight
+12.181097926897822,Clear Sky,85.46707830377062,Potato___Late_blight
+17.62857881599771,Clear Sky,92.03115829422417,Potato___Late_blight
+10.61395376119063,Snow,93.82478650902634,Potato___Late_blight
+19.00184227952786,Snow,98.32990544752248,Potato___Late_blight
+12.61187925979569,Clear Sky,99.9476549261526,Potato___Late_blight
+16.115241187733556,Broken Clouds,99.14183446628441,Potato___Late_blight
+12.57815977564055,Scattered Clouds,87.44125428608508,Potato___Late_blight
+11.298906054542716,Thunderstorm,90.8070297617109,Potato___Late_blight
+16.54104781365597,Scattered Clouds,97.06490118357311,Potato___Late_blight
+17.386559837857085,Mist,98.54931086123943,Potato___Late_blight
+15.900369475298895,Few Clouds,91.44185943120328,Potato___Late_blight
+10.070688060649339,Shower Rain,85.00998986108875,Potato___Late_blight
+19.95856235798159,Few Clouds,93.80050013447831,Potato___Late_blight
+14.21978289913095,Mist,90.43394696645136,Potato___Late_blight
+18.39104791990369,Rain,87.8673010881072,Potato___Late_blight
+11.501972051243909,Mist,97.48049939045647,Potato___Late_blight
+14.332853014718088,Broken Clouds,96.21616259489016,Potato___Late_blight
+18.08975111996002,Broken Clouds,91.51269740935149,Potato___Late_blight
+11.773784090030095,Rain,91.5348701748968,Potato___Late_blight
+18.838223985642635,Rain,96.33464269024604,Potato___Late_blight
+13.347974545066561,Mist,92.03361414037029,Potato___Late_blight
+16.049275513201227,Broken Clouds,85.3249110201235,Potato___Late_blight
+12.778566870699382,Rain,93.91611449984254,Potato___Late_blight
+15.796205422843563,Few Clouds,94.19471229778695,Potato___Late_blight
+19.944513986008957,Mist,97.46918062771162,Potato___Late_blight
+15.981052642279217,Rain,99.8755442911327,Potato___Late_blight
+16.85292772375754,Shower Rain,93.37000661864073,Potato___Late_blight
+13.968114511189487,Thunderstorm,90.4890930804348,Potato___Late_blight
+12.75455094889047,Snow,86.92365216507145,Potato___Late_blight
+11.860824874463137,Few Clouds,92.56292109868149,Potato___Late_blight
+16.89758085648544,Shower Rain,92.57872271771029,Potato___Late_blight
+10.475742304378944,Mist,91.92992107813888,Potato___Late_blight
+12.731694163578727,Snow,97.47784569236055,Potato___Late_blight
+10.441625163917612,Thunderstorm,85.46757804438099,Potato___Late_blight
+18.593611277518477,Few Clouds,93.92887944966726,Potato___Late_blight
+13.572524266750653,Rain,97.62627811989937,Potato___Late_blight
+13.298689141717945,Scattered Clouds,88.71328958452597,Potato___Late_blight
+18.545640474534427,Scattered Clouds,95.98848032774632,Potato___Late_blight
+13.47673502383959,Thunderstorm,88.20843753696217,Potato___Late_blight
+18.592100746373795,Rain,92.90928506678699,Potato___Late_blight
+10.293483894631436,Broken Clouds,96.89077115544384,Potato___Late_blight
+15.377025427504936,Clear Sky,94.36213326249863,Potato___Late_blight
+18.059215575769958,Rain,85.54540772359114,Potato___Late_blight
+14.234455302810412,Few Clouds,91.80745066389296,Potato___Late_blight
+16.359890949968523,Rain,57.13673863551305,Potato___healthy
+15.144394196811582,Few Clouds,61.101086669142276,Potato___healthy
+17.517338582960576,Thunderstorm,56.18638042849918,Potato___healthy
+15.80834346066277,Scattered Clouds,68.9901159089587,Potato___healthy
+20.06716760693306,Clear Sky,63.507558113469386,Potato___healthy
+17.623937232851336,Scattered Clouds,68.43219781100913,Potato___healthy
+21.48994840985532,Scattered Clouds,50.8336312441904,Potato___healthy
+17.570010704400218,Broken Clouds,64.17410756068487,Potato___healthy
+20.741508110826146,Shower Rain,65.20720819569055,Potato___healthy
+15.203140478974197,Few Clouds,67.63738159096262,Potato___healthy
+18.63794637394046,Mist,58.45705573341054,Potato___healthy
+21.806254870284775,Rain,61.960526784870794,Potato___healthy
+21.497428698233627,Thunderstorm,63.63592077316506,Potato___healthy
+15.0648473421666,Thunderstorm,69.8901850196457,Potato___healthy
+18.01306866092332,Clear Sky,69.32119470146635,Potato___healthy
+20.00016274517523,Mist,58.06693647751798,Potato___healthy
+16.892046461724636,Thunderstorm,52.75463636889329,Potato___healthy
+18.689568045810073,Shower Rain,58.28633799092267,Potato___healthy
+20.87749119263963,Mist,63.576835331843995,Potato___healthy
+20.183830063985848,Thunderstorm,53.623955449474856,Potato___healthy
+21.710932628877877,Thunderstorm,60.768127814979394,Potato___healthy
+19.07097775138574,Thunderstorm,61.99339907102343,Potato___healthy
+20.81951035875047,Clear Sky,52.82757037223176,Potato___healthy
+15.324235106673651,Snow,69.15848361221205,Potato___healthy
+15.648111786795424,Shower Rain,53.84681075503429,Potato___healthy
+16.517445531828347,Mist,69.3972467191849,Potato___healthy
+18.348837733707835,Few Clouds,68.68589910498443,Potato___healthy
+17.082183719699692,Scattered Clouds,61.144099598363695,Potato___healthy
+18.338428681900353,Snow,51.42600436017386,Potato___healthy
+21.168886072317125,Shower Rain,66.5831621761775,Potato___healthy
+16.64578589628336,Broken Clouds,66.78674604816233,Potato___healthy
+16.073713941493278,Few Clouds,55.60962901391598,Potato___healthy
+20.998101567091076,Clear Sky,61.68564521580325,Potato___healthy
+15.109517045460679,Scattered Clouds,68.17152944562915,Potato___healthy
+18.10106598377544,Thunderstorm,58.496883117854686,Potato___healthy
+21.93594506277511,Shower Rain,59.9502644822821,Potato___healthy
+19.329741356707025,Mist,58.5654151468236,Potato___healthy
+20.83356153010857,Few Clouds,59.95371254575718,Potato___healthy
+16.11307925292837,Rain,63.7256053179011,Potato___healthy
+17.31478005794536,Scattered Clouds,52.199047070213574,Potato___healthy
+16.862413610088947,Rain,65.6210959770702,Potato___healthy
+20.63038256293863,Scattered Clouds,55.765356041279354,Potato___healthy
+20.46121228417485,Scattered Clouds,52.152446838008565,Potato___healthy
+19.87003880185399,Rain,64.01928239275934,Potato___healthy
+18.934282692013838,Mist,53.478464823817184,Potato___healthy
+18.550876725111635,Broken Clouds,65.34631359348936,Potato___healthy
+20.028152044259244,Thunderstorm,54.160731795995076,Potato___healthy
+16.202202658155496,Few Clouds,60.0663805476765,Potato___healthy
+21.336514289603887,Few Clouds,61.61143493714714,Potato___healthy
+15.03367313914871,Rain,56.32135546303046,Potato___healthy
+18.424901818620217,Clear Sky,73.98777740513472,Raspberry___healthy
+16.925173241017816,Broken Clouds,69.84660358217366,Raspberry___healthy
+17.79518694209236,Scattered Clouds,67.3642967504376,Raspberry___healthy
+17.030479693980602,Mist,60.64454032553495,Raspberry___healthy
+17.17465782274046,Scattered Clouds,74.49655258853853,Raspberry___healthy
+18.967598978566,Scattered Clouds,74.94309038107032,Raspberry___healthy
+17.62758286419619,Rain,69.44310596518203,Raspberry___healthy
+18.627630933673753,Few Clouds,69.37057462013857,Raspberry___healthy
+15.38312641585114,Clear Sky,68.72716586630952,Raspberry___healthy
+19.323346232957096,Mist,62.69439037629452,Raspberry___healthy
+17.917471226528367,Clear Sky,64.3354717001397,Raspberry___healthy
+19.442137916783516,Rain,60.34168912885874,Raspberry___healthy
+16.441807934010573,Scattered Clouds,61.4534776154299,Raspberry___healthy
+17.390687028675664,Rain,68.1975195153327,Raspberry___healthy
+19.378150060564376,Snow,65.9791389063512,Raspberry___healthy
+16.06268232846602,Snow,67.74126562719813,Raspberry___healthy
+15.938613131440071,Clear Sky,74.27866493752911,Raspberry___healthy
+18.130613637773603,Shower Rain,64.38159476435045,Raspberry___healthy
+19.628811777366387,Few Clouds,66.10329790131843,Raspberry___healthy
+18.31370217109104,Snow,65.09163964115913,Raspberry___healthy
+15.054673160087846,Scattered Clouds,60.901563485361876,Raspberry___healthy
+16.155622599830547,Few Clouds,63.3556483825794,Raspberry___healthy
+16.40354633145393,Thunderstorm,74.08346286222216,Raspberry___healthy
+15.81297797274918,Scattered Clouds,71.50046799622238,Raspberry___healthy
+17.562197424414947,Rain,72.02229996770404,Raspberry___healthy
+16.628128585103862,Clear Sky,63.44386002890226,Raspberry___healthy
+16.588430287678975,Mist,68.38735532508,Raspberry___healthy
+19.417232406616836,Mist,69.55328858566737,Raspberry___healthy
+17.74328330182439,Thunderstorm,64.1086481528932,Raspberry___healthy
+15.78447709523169,Rain,64.52596052271574,Raspberry___healthy
+19.33733951134766,Snow,60.71035352348942,Raspberry___healthy
+17.414397203756913,Clear Sky,69.11286531095382,Raspberry___healthy
+18.91136846008692,Shower Rain,72.84622362159475,Raspberry___healthy
+17.825761913112842,Snow,60.798984178499104,Raspberry___healthy
+15.382502969313276,Mist,64.05702671384236,Raspberry___healthy
+16.274176581316432,Few Clouds,66.36291789217283,Raspberry___healthy
+18.65143816252205,Scattered Clouds,68.20768754784336,Raspberry___healthy
+18.618818088652258,Shower Rain,71.10287646833798,Raspberry___healthy
+19.4313152501677,Thunderstorm,60.01731343489791,Raspberry___healthy
+18.50757060592706,Rain,63.84026960508633,Raspberry___healthy
+18.306102940876922,Broken Clouds,72.49801554501762,Raspberry___healthy
+15.51624023187802,Rain,73.16209024755572,Raspberry___healthy
+18.113084724478693,Shower Rain,70.58607496822489,Raspberry___healthy
+19.251911765143287,Snow,63.83774925233671,Raspberry___healthy
+18.032085401978073,Mist,72.04026333855512,Raspberry___healthy
+19.494977144698947,Shower Rain,67.70055983220016,Raspberry___healthy
+15.360929794317538,Rain,71.99950363865767,Raspberry___healthy
+15.82514746407082,Shower Rain,70.95636429766202,Raspberry___healthy
+17.6814717949576,Broken Clouds,61.63111080258089,Raspberry___healthy
+19.360785949725845,Few Clouds,71.89157586798338,Raspberry___healthy
+29.06527141067056,Scattered Clouds,61.727421819116266,Soybean___healthy
+27.75622480825678,Rain,56.07369197259754,Soybean___healthy
+29.914216963600698,Few Clouds,68.10977896796466,Soybean___healthy
+22.514548363721033,Few Clouds,57.09397780408372,Soybean___healthy
+28.77094215794598,Thunderstorm,52.199389736221335,Soybean___healthy
+26.51340779712292,Few Clouds,62.117779715879244,Soybean___healthy
+23.571815357598293,Scattered Clouds,58.43480907723152,Soybean___healthy
+22.120907524480188,Scattered Clouds,52.169462728865625,Soybean___healthy
+27.662903247931798,Broken Clouds,50.67895472858778,Soybean___healthy
+25.018866044752016,Broken Clouds,67.48432654486743,Soybean___healthy
+23.033455114297833,Snow,57.056662587557625,Soybean___healthy
+22.822281759768092,Rain,64.06768605328836,Soybean___healthy
+28.69642804069903,Few Clouds,51.12669191684702,Soybean___healthy
+22.950902277218262,Rain,53.9590941092233,Soybean___healthy
+22.033658667490656,Rain,52.2451302885131,Soybean___healthy
+27.586319410933964,Shower Rain,50.994083224307495,Soybean___healthy
+21.59658079868718,Thunderstorm,52.761650159362475,Soybean___healthy
+20.96012683580904,Mist,68.6102616445365,Soybean___healthy
+22.185080285990097,Mist,55.525162662689624,Soybean___healthy
+24.096099057346194,Thunderstorm,57.88411441122497,Soybean___healthy
+28.70798449391259,Few Clouds,55.38704057031525,Soybean___healthy
+29.775407758194472,Snow,69.35046504617434,Soybean___healthy
+29.257277909489456,Few Clouds,53.958466420282605,Soybean___healthy
+21.83505522881699,Scattered Clouds,65.9623276693303,Soybean___healthy
+22.014214439381632,Shower Rain,60.285003488605085,Soybean___healthy
+23.687991030571112,Broken Clouds,50.42650097051815,Soybean___healthy
+29.625760916158175,Broken Clouds,68.72885597066787,Soybean___healthy
+24.531098176187523,Rain,69.24092944950885,Soybean___healthy
+27.289779278980497,Shower Rain,69.52407105164583,Soybean___healthy
+26.319979031888025,Thunderstorm,65.46007704840113,Soybean___healthy
+22.14610275718276,Shower Rain,63.304389728079855,Soybean___healthy
+21.805904975092776,Snow,59.422860901529134,Soybean___healthy
+27.667301816058337,Broken Clouds,50.3040008664582,Soybean___healthy
+25.043934298895334,Rain,56.89991655767315,Soybean___healthy
+22.217576593338578,Scattered Clouds,66.50878713583052,Soybean___healthy
+25.80547118944171,Scattered Clouds,58.256098987140064,Soybean___healthy
+23.659283796854982,Snow,60.382804699194985,Soybean___healthy
+23.702217492849723,Snow,63.40052941536009,Soybean___healthy
+24.560894055708655,Mist,62.61260060930338,Soybean___healthy
+28.77336711541747,Rain,51.61932282584924,Soybean___healthy
+25.573011307207942,Thunderstorm,51.6090663659402,Soybean___healthy
+28.853312303848213,Shower Rain,56.02452469893015,Soybean___healthy
+25.363385442357266,Scattered Clouds,64.96968285600573,Soybean___healthy
+27.5557319148296,Scattered Clouds,56.07125988750364,Soybean___healthy
+21.01833619691075,Snow,60.62873998645787,Soybean___healthy
+23.63080437607559,Shower Rain,50.44730561349581,Soybean___healthy
+23.92491027303357,Snow,50.78618849284677,Soybean___healthy
+28.48731012050384,Thunderstorm,62.56879689314152,Soybean___healthy
+27.292670134292116,Snow,67.95927599579382,Soybean___healthy
+24.46289477000056,Clear Sky,58.09659421997383,Soybean___healthy
+18.133673977544362,Mist,65.30942181220948,Squash___Powdery_mildew
+20.710599434420736,Shower Rain,64.02974431926516,Squash___Powdery_mildew
+21.273538385574902,Thunderstorm,69.53941808372252,Squash___Powdery_mildew
+29.72852633755453,Broken Clouds,64.32073028966737,Squash___Powdery_mildew
+25.184369547120454,Thunderstorm,50.171649489144045,Squash___Powdery_mildew
+26.400868092192045,Rain,67.8536259562713,Squash___Powdery_mildew
+29.288636965867692,Snow,54.35830800468822,Squash___Powdery_mildew
+26.4716072033499,Rain,64.46392493455498,Squash___Powdery_mildew
+29.943848238893366,Scattered Clouds,58.007582310415906,Squash___Powdery_mildew
+29.651326388862728,Broken Clouds,63.81933299538338,Squash___Powdery_mildew
+29.050013999456795,Broken Clouds,63.37154346274371,Squash___Powdery_mildew
+18.06922429846406,Broken Clouds,52.24023327944928,Squash___Powdery_mildew
+25.37044501996793,Snow,68.20201379560281,Squash___Powdery_mildew
+23.698854682961713,Shower Rain,67.27791539222423,Squash___Powdery_mildew
+27.333388066720488,Mist,59.168062500749414,Squash___Powdery_mildew
+20.951542461783127,Clear Sky,56.27583046697039,Squash___Powdery_mildew
+23.632193612824338,Shower Rain,57.32854558076404,Squash___Powdery_mildew
+26.477440930888477,Snow,58.45696207251598,Squash___Powdery_mildew
+26.128854839206582,Shower Rain,62.934708022137855,Squash___Powdery_mildew
+19.386220036105286,Broken Clouds,54.6186052552189,Squash___Powdery_mildew
+24.86586615341714,Scattered Clouds,53.26399555982723,Squash___Powdery_mildew
+21.32437665981512,Scattered Clouds,57.17629848045102,Squash___Powdery_mildew
+28.011622021072974,Broken Clouds,66.54430900826785,Squash___Powdery_mildew
+26.745860136575182,Broken Clouds,54.50461647582093,Squash___Powdery_mildew
+27.9120373464158,Clear Sky,56.21176464031926,Squash___Powdery_mildew
+24.568418517468416,Rain,62.56609127575396,Squash___Powdery_mildew
+27.228004811674914,Thunderstorm,62.5939411494742,Squash___Powdery_mildew
+18.84941607474642,Rain,68.7712093524898,Squash___Powdery_mildew
+23.295903487005567,Few Clouds,60.398861126264265,Squash___Powdery_mildew
+29.998929616073656,Mist,52.72151573871391,Squash___Powdery_mildew
+24.16694821320612,Few Clouds,54.47316405646232,Squash___Powdery_mildew
+29.13378938523686,Scattered Clouds,53.968737527201526,Squash___Powdery_mildew
+22.021638167833267,Mist,57.13502983985419,Squash___Powdery_mildew
+28.572611826340278,Scattered Clouds,61.36620043711871,Squash___Powdery_mildew
+18.893026984497002,Shower Rain,58.057841801491406,Squash___Powdery_mildew
+28.625504693519233,Thunderstorm,65.49944945819776,Squash___Powdery_mildew
+29.71206968685023,Snow,59.096585381788046,Squash___Powdery_mildew
+19.27263602105716,Few Clouds,69.39758934841458,Squash___Powdery_mildew
+26.082212581142446,Thunderstorm,59.9805095195095,Squash___Powdery_mildew
+22.51547916643718,Shower Rain,63.7651551082861,Squash___Powdery_mildew
+26.18245007197582,Thunderstorm,62.475491822211936,Squash___Powdery_mildew
+23.822628103478696,Rain,62.911191946096636,Squash___Powdery_mildew
+21.91499013545081,Broken Clouds,58.21299842899896,Squash___Powdery_mildew
+21.713109531625484,Shower Rain,61.84606290333949,Squash___Powdery_mildew
+24.82644743011248,Thunderstorm,66.97996900305844,Squash___Powdery_mildew
+28.633734265971114,Few Clouds,60.54947839318744,Squash___Powdery_mildew
+24.339956857143996,Shower Rain,55.41307020746873,Squash___Powdery_mildew
+27.002601118817594,Clear Sky,65.84420928064793,Squash___Powdery_mildew
+29.227528428082188,Snow,63.72288541749351,Squash___Powdery_mildew
+23.690750276018072,Clear Sky,57.66356167300335,Squash___Powdery_mildew
+20.79819320488316,Mist,61.978219789650254,Strawberry___Leaf_scorch
+24.01903306148201,Thunderstorm,70.09895011952443,Strawberry___Leaf_scorch
+21.444945612657932,Thunderstorm,67.45469955280164,Strawberry___Leaf_scorch
+22.61509168439219,Scattered Clouds,51.5622972121747,Strawberry___Leaf_scorch
+24.43904570598462,Few Clouds,61.2169905714082,Strawberry___Leaf_scorch
+24.53944882139036,Snow,66.85568957801418,Strawberry___Leaf_scorch
+22.79714646679179,Few Clouds,65.38878165909135,Strawberry___Leaf_scorch
+23.827014196143434,Thunderstorm,53.796504343992844,Strawberry___Leaf_scorch
+24.891959015486993,Shower Rain,53.91910379520265,Strawberry___Leaf_scorch
+22.040860599420533,Rain,58.58771260892643,Strawberry___Leaf_scorch
+24.870909250672494,Scattered Clouds,54.54566356200622,Strawberry___Leaf_scorch
+21.066364581031596,Rain,54.52839778378406,Strawberry___Leaf_scorch
+20.11174076832129,Broken Clouds,62.187601517903886,Strawberry___Leaf_scorch
+24.59790712383563,Broken Clouds,68.5963265413885,Strawberry___Leaf_scorch
+24.83324835624174,Mist,52.65763761265856,Strawberry___Leaf_scorch
+21.67077143838512,Few Clouds,70.20129327660854,Strawberry___Leaf_scorch
+24.354223715745352,Clear Sky,58.22934256927062,Strawberry___Leaf_scorch
+23.547515006595965,Rain,64.76023144911022,Strawberry___Leaf_scorch
+24.66596600147315,Rain,62.846522402425386,Strawberry___Leaf_scorch
+24.803721382780964,Mist,65.35755102586555,Strawberry___Leaf_scorch
+22.845821462539995,Scattered Clouds,62.00283227722269,Strawberry___Leaf_scorch
+21.512718101516015,Thunderstorm,55.650504707110414,Strawberry___Leaf_scorch
+22.70180779500934,Rain,72.73258795759568,Strawberry___Leaf_scorch
+22.728957891541675,Shower Rain,50.77003171434147,Strawberry___Leaf_scorch
+23.173946397442023,Few Clouds,66.35575215908428,Strawberry___Leaf_scorch
+20.672920724081763,Few Clouds,55.56803910588702,Strawberry___Leaf_scorch
+21.311752229059326,Few Clouds,50.1580594128434,Strawberry___Leaf_scorch
+24.64324525685574,Clear Sky,57.33687095803191,Strawberry___Leaf_scorch
+21.139493706515804,Snow,54.55343609393634,Strawberry___Leaf_scorch
+20.20132373418104,Mist,65.06211169619866,Strawberry___Leaf_scorch
+24.443472228087327,Rain,74.78610746974022,Strawberry___Leaf_scorch
+20.336752087170368,Clear Sky,63.107692155125626,Strawberry___Leaf_scorch
+22.068682695947317,Scattered Clouds,64.91513184375854,Strawberry___Leaf_scorch
+23.83009797498323,Broken Clouds,74.14612234006418,Strawberry___Leaf_scorch
+21.52439558750085,Mist,58.53140617673037,Strawberry___Leaf_scorch
+23.03636992479147,Snow,72.96452648721032,Strawberry___Leaf_scorch
+22.768689126308406,Rain,56.90389782013632,Strawberry___Leaf_scorch
+24.77156675816523,Few Clouds,67.96678413503156,Strawberry___Leaf_scorch
+22.799702336854608,Snow,70.8892139432573,Strawberry___Leaf_scorch
+23.650690129891153,Broken Clouds,51.53635861961634,Strawberry___Leaf_scorch
+24.478491429430385,Scattered Clouds,74.12602685979876,Strawberry___Leaf_scorch
+20.8640103481196,Snow,58.17881256938873,Strawberry___Leaf_scorch
+21.75793268768298,Snow,63.589240082435374,Strawberry___Leaf_scorch
+24.055735766731726,Broken Clouds,72.14350665519468,Strawberry___Leaf_scorch
+23.58040829455555,Scattered Clouds,51.04832394502349,Strawberry___Leaf_scorch
+23.98499898719786,Snow,74.82907657487864,Strawberry___Leaf_scorch
+24.45093260574983,Mist,64.62846070103188,Strawberry___Leaf_scorch
+22.884206194181857,Rain,62.47680926418243,Strawberry___Leaf_scorch
+24.073695832393053,Shower Rain,65.48616048547474,Strawberry___Leaf_scorch
+20.01898248094789,Thunderstorm,73.91874419338356,Strawberry___Leaf_scorch
+24.983592193126636,Scattered Clouds,63.68506723700307,Strawberry___healthy
+15.787237248012628,Mist,70.9287134768135,Strawberry___healthy
+24.337435460896117,Mist,76.02731896890717,Strawberry___healthy
+23.411503554232233,Broken Clouds,76.13922598749615,Strawberry___healthy
+22.352977763604333,Snow,76.20095989220279,Strawberry___healthy
+19.761702888559515,Thunderstorm,73.6784691810659,Strawberry___healthy
+17.963896266302413,Scattered Clouds,63.66620181787039,Strawberry___healthy
+24.058663379281654,Broken Clouds,66.35421585837673,Strawberry___healthy
+19.047135775178905,Few Clouds,64.02449501040691,Strawberry___healthy
+22.074576921342036,Snow,60.72869097051499,Strawberry___healthy
+24.779358413039468,Few Clouds,66.65106125878839,Strawberry___healthy
+21.55742284242511,Broken Clouds,75.58844124317866,Strawberry___healthy
+20.794786553618845,Mist,60.63687509830444,Strawberry___healthy
+22.59077329930779,Broken Clouds,78.19340242062655,Strawberry___healthy
+18.086063307262595,Shower Rain,69.61979370170818,Strawberry___healthy
+20.5478982904427,Few Clouds,74.62643381982586,Strawberry___healthy
+18.506368820570298,Broken Clouds,61.737894486056824,Strawberry___healthy
+16.481256006769094,Rain,77.23395752721814,Strawberry___healthy
+22.066592091654524,Scattered Clouds,73.32452384233545,Strawberry___healthy
+17.154366607869292,Clear Sky,60.685777112010925,Strawberry___healthy
+20.127403160518615,Broken Clouds,61.3871546524014,Strawberry___healthy
+21.756244677615967,Thunderstorm,65.97596202520002,Strawberry___healthy
+21.849058607795072,Few Clouds,72.55310813338384,Strawberry___healthy
+21.234391416662522,Few Clouds,67.61844768364392,Strawberry___healthy
+21.109498524101433,Broken Clouds,64.48855200839995,Strawberry___healthy
+21.75969920745119,Clear Sky,63.07832137977072,Strawberry___healthy
+16.591696522301614,Broken Clouds,69.08642402146474,Strawberry___healthy
+20.261427512522957,Few Clouds,68.9087565788086,Strawberry___healthy
+21.29294009488135,Shower Rain,74.33241363824139,Strawberry___healthy
+17.874110245887547,Rain,68.49593581185944,Strawberry___healthy
+17.555844136077997,Rain,67.49787755837409,Strawberry___healthy
+18.59298309220655,Mist,66.32545262841882,Strawberry___healthy
+20.188889728264524,Thunderstorm,63.20144863410416,Strawberry___healthy
+20.41411856644973,Snow,76.14785122706829,Strawberry___healthy
+19.850514983483546,Snow,71.8306196311047,Strawberry___healthy
+23.51625740090893,Snow,68.17217121100022,Strawberry___healthy
+24.2077167350658,Few Clouds,63.75659782230035,Strawberry___healthy
+23.686433228706257,Clear Sky,75.8782929217864,Strawberry___healthy
+24.65317157577466,Rain,60.48236409055979,Strawberry___healthy
+16.756135840933883,Clear Sky,65.265239260916,Strawberry___healthy
+22.29478075101269,Mist,69.04533817210748,Strawberry___healthy
+17.01763953516654,Snow,63.311790305207595,Strawberry___healthy
+20.12424329629229,Broken Clouds,61.3706746634417,Strawberry___healthy
+19.410697111166684,Mist,60.86587271962844,Strawberry___healthy
+18.75438364490241,Broken Clouds,77.08070567220943,Strawberry___healthy
+16.913195400824183,Few Clouds,70.88803799846032,Strawberry___healthy
+21.805042968965562,Mist,66.02133943055175,Strawberry___healthy
+19.03121075752631,Snow,79.04293917268241,Strawberry___healthy
+15.835795934783123,Snow,68.73743389011388,Strawberry___healthy
+24.922328345059253,Clear Sky,74.41390665080206,Strawberry___healthy
+27.509813372850097,Rain,88.36627437280575,Tomato___Bacterial_spot
+26.951441690220637,Few Clouds,80.03718149704365,Tomato___Bacterial_spot
+29.216655380238812,Scattered Clouds,76.9790764256231,Tomato___Bacterial_spot
+29.203968960100372,Scattered Clouds,82.37980924594022,Tomato___Bacterial_spot
+25.91020972752992,Few Clouds,89.32252253242886,Tomato___Bacterial_spot
+26.115633553367037,Mist,80.82048073665379,Tomato___Bacterial_spot
+27.82381226185834,Rain,79.14953562396579,Tomato___Bacterial_spot
+28.904620233618818,Few Clouds,74.97342458879324,Tomato___Bacterial_spot
+25.802454524347024,Mist,71.69274677344093,Tomato___Bacterial_spot
+25.027370237548208,Mist,75.43517327291082,Tomato___Bacterial_spot
+29.294785467195176,Few Clouds,89.4046970342544,Tomato___Bacterial_spot
+26.773293332666576,Shower Rain,82.2747099866743,Tomato___Bacterial_spot
+28.986947968645083,Broken Clouds,89.90840035862081,Tomato___Bacterial_spot
+25.828682123099703,Snow,87.33538318561152,Tomato___Bacterial_spot
+28.34792977118131,Rain,86.89003338415918,Tomato___Bacterial_spot
+26.18333958381961,Mist,74.04900247366511,Tomato___Bacterial_spot
+28.58830016518078,Few Clouds,71.28656175747885,Tomato___Bacterial_spot
+29.26167719078686,Snow,71.09847298307578,Tomato___Bacterial_spot
+25.45296269005554,Broken Clouds,72.04371044382337,Tomato___Bacterial_spot
+28.718096295391284,Thunderstorm,85.10299873307336,Tomato___Bacterial_spot
+27.46939627326709,Thunderstorm,82.68788489401197,Tomato___Bacterial_spot
+27.594744491682246,Rain,76.60672733708414,Tomato___Bacterial_spot
+29.780930670456218,Few Clouds,76.54289135843516,Tomato___Bacterial_spot
+29.489874081444043,Mist,72.21443469919237,Tomato___Bacterial_spot
+25.017579833046888,Snow,73.28854991820246,Tomato___Bacterial_spot
+27.90540305540804,Clear Sky,80.14830157496017,Tomato___Bacterial_spot
+27.490766484677778,Few Clouds,70.99317583771857,Tomato___Bacterial_spot
+25.200567786518047,Scattered Clouds,76.76300089231631,Tomato___Bacterial_spot
+25.39376323308106,Few Clouds,73.3703928668846,Tomato___Bacterial_spot
+29.592665896964693,Mist,89.7382912390151,Tomato___Bacterial_spot
+24.6152016159742,Scattered Clouds,77.89503830438004,Tomato___Bacterial_spot
+28.42577922125674,Thunderstorm,85.856683027053,Tomato___Bacterial_spot
+28.460560992693168,Rain,83.04394956861326,Tomato___Bacterial_spot
+24.137461079095832,Shower Rain,82.80767254247625,Tomato___Bacterial_spot
+26.91185729918817,Mist,74.07726428369868,Tomato___Bacterial_spot
+28.263723924923436,Thunderstorm,74.1258446906551,Tomato___Bacterial_spot
+24.710260220950207,Shower Rain,87.01565394927853,Tomato___Bacterial_spot
+28.43581984734345,Shower Rain,76.63303897213792,Tomato___Bacterial_spot
+24.8593830925508,Broken Clouds,73.207013890284,Tomato___Bacterial_spot
+25.22985200615277,Thunderstorm,72.39613001509841,Tomato___Bacterial_spot
+27.58776108472511,Few Clouds,82.69271399200892,Tomato___Bacterial_spot
+27.318420299578808,Snow,70.08596752118618,Tomato___Bacterial_spot
+26.81752098241613,Rain,86.53814847998916,Tomato___Bacterial_spot
+25.025096998516226,Few Clouds,71.92015779374044,Tomato___Bacterial_spot
+25.85395945586819,Shower Rain,85.22137189798177,Tomato___Bacterial_spot
+28.434769435737643,Scattered Clouds,80.9871885565275,Tomato___Bacterial_spot
+27.142510706080994,Thunderstorm,74.79570465934796,Tomato___Bacterial_spot
+29.51433371087531,Snow,86.14288427741066,Tomato___Bacterial_spot
+28.909484462220334,Snow,74.39394054461181,Tomato___Bacterial_spot
+24.01503265563847,Clear Sky,75.88435603804139,Tomato___Bacterial_spot
+23.045206112225348,Clear Sky,82.1083890356634,Tomato___Early_blight
+24.019298207650518,Thunderstorm,82.65151609420585,Tomato___Early_blight
+22.99867135331319,Shower Rain,74.23630998576454,Tomato___Early_blight
+22.55993412257208,Broken Clouds,74.61408932599966,Tomato___Early_blight
+24.652426430669628,Thunderstorm,77.37188175311098,Tomato___Early_blight
+22.95095814457086,Thunderstorm,81.84328497786181,Tomato___Early_blight
+20.480867285118897,Few Clouds,71.37447685202584,Tomato___Early_blight
+24.95651982302578,Few Clouds,78.72956189030212,Tomato___Early_blight
+21.312890541261556,Snow,81.90709657059446,Tomato___Early_blight
+23.140333245968392,Thunderstorm,83.97015321277657,Tomato___Early_blight
+23.889841476924918,Shower Rain,76.50281020390341,Tomato___Early_blight
+23.989724137604675,Rain,79.84530689545787,Tomato___Early_blight
+22.45942722923861,Clear Sky,81.67808387967858,Tomato___Early_blight
+22.333920303856186,Few Clouds,72.12779760297325,Tomato___Early_blight
+23.97417828454403,Clear Sky,82.1229273198262,Tomato___Early_blight
+24.522442881769702,Shower Rain,74.89334008041271,Tomato___Early_blight
+22.470841183209046,Few Clouds,72.78438885576104,Tomato___Early_blight
+24.400920817102566,Mist,81.59792952595213,Tomato___Early_blight
+24.393085447329966,Rain,79.84211727115989,Tomato___Early_blight
+24.965066922903972,Scattered Clouds,75.00522607031584,Tomato___Early_blight
+21.037472606063645,Mist,81.20331283876983,Tomato___Early_blight
+24.374622424154,Mist,83.60190221130674,Tomato___Early_blight
+20.635579567045678,Snow,70.19140939799568,Tomato___Early_blight
+23.14388946734996,Snow,76.30780375429805,Tomato___Early_blight
+21.32283103101895,Clear Sky,78.69969825554787,Tomato___Early_blight
+24.09168428488129,Few Clouds,76.37810246669237,Tomato___Early_blight
+21.325775996697935,Snow,76.5984555496803,Tomato___Early_blight
+20.685913626725867,Shower Rain,82.47967932244013,Tomato___Early_blight
+23.464847430373055,Rain,72.7592268535891,Tomato___Early_blight
+21.867289222390365,Snow,82.42956334508355,Tomato___Early_blight
+24.038647240565442,Rain,81.42804048086204,Tomato___Early_blight
+22.974011027640824,Clear Sky,80.45282908985672,Tomato___Early_blight
+20.53528324207635,Snow,84.51149758797084,Tomato___Early_blight
+24.99505489070594,Mist,72.99232422394076,Tomato___Early_blight
+21.271115341385947,Rain,74.30559044388002,Tomato___Early_blight
+22.525200328652303,Few Clouds,70.82063195673719,Tomato___Early_blight
+20.269882528477943,Snow,70.6899452982219,Tomato___Early_blight
+24.684028559498675,Snow,82.02468301603265,Tomato___Early_blight
+24.84180508978734,Few Clouds,84.56982579218383,Tomato___Early_blight
+24.072442144885606,Clear Sky,80.52033438255386,Tomato___Early_blight
+20.368109922957075,Shower Rain,82.08832360730395,Tomato___Early_blight
+22.967157790124777,Rain,75.08469068796826,Tomato___Early_blight
+21.895557131135718,Scattered Clouds,78.1252511901488,Tomato___Early_blight
+20.962729201969672,Broken Clouds,79.68693010013814,Tomato___Early_blight
+22.136955784787315,Thunderstorm,81.1388101884643,Tomato___Early_blight
+20.219960545873036,Snow,70.97443120930755,Tomato___Early_blight
+24.77557514909303,Thunderstorm,84.75158455234472,Tomato___Early_blight
+20.92349381936462,Scattered Clouds,78.93661231633034,Tomato___Early_blight
+24.09115246537861,Thunderstorm,79.2707972465298,Tomato___Early_blight
+23.805605802948257,Clear Sky,75.85059258638718,Tomato___Early_blight
+19.89709818253187,Snow,97.00477907694794,Tomato___Late_blight
+18.824030924274826,Few Clouds,91.2701274241894,Tomato___Late_blight
+12.619195698788527,Broken Clouds,99.25216085714372,Tomato___Late_blight
+12.613825219020573,Rain,86.111830990004,Tomato___Late_blight
+18.91788799894063,Scattered Clouds,99.3374358697957,Tomato___Late_blight
+17.590428557566277,Thunderstorm,86.8452370094713,Tomato___Late_blight
+15.911966627431779,Snow,88.27321709526574,Tomato___Late_blight
+18.33283325597541,Clear Sky,90.35468159108848,Tomato___Late_blight
+18.400232396415777,Rain,86.15871927506038,Tomato___Late_blight
+15.134965336739603,Rain,93.31611370746391,Tomato___Late_blight
+11.525733932047386,Clear Sky,93.15472285146778,Tomato___Late_blight
+10.42056132408142,Clear Sky,92.20093839600918,Tomato___Late_blight
+11.087321917429332,Mist,92.3184167134232,Tomato___Late_blight
+16.133834506355424,Shower Rain,89.05818806334992,Tomato___Late_blight
+14.513629368179718,Rain,95.29031833406253,Tomato___Late_blight
+11.401705635725488,Broken Clouds,98.78264370110612,Tomato___Late_blight
+12.815301291555418,Clear Sky,93.23869886803186,Tomato___Late_blight
+16.828566650115217,Mist,98.7080930172795,Tomato___Late_blight
+12.149593926335264,Snow,88.47566034177926,Tomato___Late_blight
+15.035117890086218,Rain,89.10279000854763,Tomato___Late_blight
+17.33775629850772,Thunderstorm,93.22613007349635,Tomato___Late_blight
+17.079316866720035,Shower Rain,87.22897766054251,Tomato___Late_blight
+11.700503375703077,Clear Sky,86.89270459352268,Tomato___Late_blight
+13.87228398260309,Few Clouds,98.33756882769656,Tomato___Late_blight
+17.861443254336535,Clear Sky,85.37751162027939,Tomato___Late_blight
+17.98095114821609,Scattered Clouds,94.74286642568227,Tomato___Late_blight
+18.611114316546647,Shower Rain,97.26320691359925,Tomato___Late_blight
+14.204581217408094,Thunderstorm,90.70970980935952,Tomato___Late_blight
+19.288920067867107,Few Clouds,98.46769189054174,Tomato___Late_blight
+17.78445801403082,Clear Sky,99.04568784221824,Tomato___Late_blight
+12.876883534280793,Scattered Clouds,97.55467787774424,Tomato___Late_blight
+15.73721241319306,Shower Rain,98.38642485090968,Tomato___Late_blight
+17.717900038351264,Broken Clouds,98.41134836802678,Tomato___Late_blight
+12.653451365817725,Mist,94.57511876754715,Tomato___Late_blight
+16.154474648252506,Mist,85.85635895005504,Tomato___Late_blight
+14.65125015320388,Snow,93.21974070027423,Tomato___Late_blight
+11.69915250305666,Mist,87.71055729689283,Tomato___Late_blight
+12.660330144677374,Clear Sky,87.50095629218787,Tomato___Late_blight
+10.226534632808237,Mist,98.12089819020343,Tomato___Late_blight
+12.0962883321222,Few Clouds,94.02560479716392,Tomato___Late_blight
+11.256938208049018,Broken Clouds,94.82197773735896,Tomato___Late_blight
+18.370110518894833,Shower Rain,93.59061551597627,Tomato___Late_blight
+13.156858145038758,Snow,88.3193162140791,Tomato___Late_blight
+17.648890935992117,Few Clouds,92.3023358692538,Tomato___Late_blight
+19.252255276594884,Scattered Clouds,93.6373770998981,Tomato___Late_blight
+11.083297391367179,Snow,92.01661181189752,Tomato___Late_blight
+14.699718645045351,Scattered Clouds,85.644213164984,Tomato___Late_blight
+14.053004787441038,Mist,93.30477928528406,Tomato___Late_blight
+11.918763692952151,Rain,87.72038655067846,Tomato___Late_blight
+10.322921708381127,Rain,93.16258194393558,Tomato___Late_blight
+18.81467402501291,Few Clouds,95.4330548532634,Tomato___Leaf_Mold
+19.024382309589843,Clear Sky,98.00093252453208,Tomato___Leaf_Mold
+20.476523199308545,Mist,86.07035871985661,Tomato___Leaf_Mold
+21.46198333190666,Thunderstorm,88.9509979301709,Tomato___Leaf_Mold
+23.697204774654054,Shower Rain,99.09458342758214,Tomato___Leaf_Mold
+22.53987174128834,Clear Sky,94.45190751158374,Tomato___Leaf_Mold
+23.004081705459296,Few Clouds,94.35036152999713,Tomato___Leaf_Mold
+18.115097268316983,Snow,99.12210575838553,Tomato___Leaf_Mold
+19.36563554372435,Shower Rain,86.71002103302874,Tomato___Leaf_Mold
+18.03699658996488,Few Clouds,89.6669765965704,Tomato___Leaf_Mold
+18.03304495494138,Clear Sky,95.19847527436274,Tomato___Leaf_Mold
+19.134866141757648,Clear Sky,90.79028646397971,Tomato___Leaf_Mold
+19.565341782912338,Few Clouds,93.44862947769526,Tomato___Leaf_Mold
+22.851854275310952,Snow,96.36672511373725,Tomato___Leaf_Mold
+19.046153062443455,Clear Sky,91.03276644841996,Tomato___Leaf_Mold
+20.096006780578136,Snow,92.05589407783252,Tomato___Leaf_Mold
+21.203288409137354,Broken Clouds,85.36634109098276,Tomato___Leaf_Mold
+22.681062572180856,Broken Clouds,94.80347603318302,Tomato___Leaf_Mold
+21.86234953521641,Shower Rain,90.69988586204182,Tomato___Leaf_Mold
+22.700856452383416,Mist,95.95207031589217,Tomato___Leaf_Mold
+19.69540612504493,Shower Rain,86.26165134636021,Tomato___Leaf_Mold
+20.72898062627357,Few Clouds,86.57649281778232,Tomato___Leaf_Mold
+22.609321280333365,Few Clouds,99.82668813028911,Tomato___Leaf_Mold
+19.975778150230468,Snow,93.48531162832101,Tomato___Leaf_Mold
+18.357120784523836,Broken Clouds,92.71740667385897,Tomato___Leaf_Mold
+21.26555019556324,Thunderstorm,87.13287391657829,Tomato___Leaf_Mold
+23.918161155584407,Scattered Clouds,94.285845492838,Tomato___Leaf_Mold
+21.89239134519637,Mist,97.36220044779219,Tomato___Leaf_Mold
+19.104979970445726,Snow,91.67562050061825,Tomato___Leaf_Mold
+19.724888558864095,Snow,93.89469717085514,Tomato___Leaf_Mold
+19.112704674373838,Thunderstorm,96.24258526853862,Tomato___Leaf_Mold
+21.46046958199755,Shower Rain,92.35825416610322,Tomato___Leaf_Mold
+18.84358265181912,Snow,92.03605958941003,Tomato___Leaf_Mold
+23.05059136945619,Thunderstorm,87.05273035335298,Tomato___Leaf_Mold
+20.265416970932087,Rain,88.21147224291325,Tomato___Leaf_Mold
+20.749756071578435,Rain,96.55151087148342,Tomato___Leaf_Mold
+23.58718578756961,Scattered Clouds,99.57598282217478,Tomato___Leaf_Mold
+18.975816367291117,Thunderstorm,87.32885799888311,Tomato___Leaf_Mold
+19.957749168743696,Thunderstorm,92.48801619895657,Tomato___Leaf_Mold
+21.23700045920063,Mist,91.22012155160023,Tomato___Leaf_Mold
+21.838646917275312,Shower Rain,96.4846503500348,Tomato___Leaf_Mold
+19.57551035764771,Mist,96.2712581148196,Tomato___Leaf_Mold
+19.92396042799485,Shower Rain,94.00642558826159,Tomato___Leaf_Mold
+18.10008341286466,Scattered Clouds,93.75117812404977,Tomato___Leaf_Mold
+18.512524144922658,Snow,98.4416553995422,Tomato___Leaf_Mold
+20.575743734128544,Thunderstorm,91.98253731276226,Tomato___Leaf_Mold
+22.268255415620647,Broken Clouds,91.75665555340562,Tomato___Leaf_Mold
+21.50204237654352,Snow,90.59675773509056,Tomato___Leaf_Mold
+20.007042337121195,Few Clouds,92.22417167537101,Tomato___Leaf_Mold
+22.933473355277727,Scattered Clouds,97.27311133340827,Tomato___Leaf_Mold
+20.002382527130276,Mist,87.42201570418158,Tomato___Septoria_leaf_spot
+20.306489434396873,Mist,86.03363734542314,Tomato___Septoria_leaf_spot
+23.36583764535465,Thunderstorm,87.99193822533233,Tomato___Septoria_leaf_spot
+24.920539260027635,Scattered Clouds,84.8609111622534,Tomato___Septoria_leaf_spot
+20.976689805891713,Scattered Clouds,87.65707469094825,Tomato___Septoria_leaf_spot
+22.349030015269868,Few Clouds,81.05747324110038,Tomato___Septoria_leaf_spot
+24.284826715691313,Snow,89.78427090523121,Tomato___Septoria_leaf_spot
+21.974134406341122,Shower Rain,86.75636420947266,Tomato___Septoria_leaf_spot
+24.652039008145987,Rain,87.96967148249561,Tomato___Septoria_leaf_spot
+22.94077508173523,Broken Clouds,89.69810462375537,Tomato___Septoria_leaf_spot
+21.193489543931218,Broken Clouds,86.28367666181207,Tomato___Septoria_leaf_spot
+23.344695066836127,Thunderstorm,81.70553666215199,Tomato___Septoria_leaf_spot
+24.950319130228188,Few Clouds,81.88463920665552,Tomato___Septoria_leaf_spot
+22.78103128800552,Broken Clouds,84.77174923210023,Tomato___Septoria_leaf_spot
+22.601535028676558,Snow,88.36266792749679,Tomato___Septoria_leaf_spot
+20.875755214808088,Few Clouds,84.47578741582865,Tomato___Septoria_leaf_spot
+20.67017665317684,Thunderstorm,84.85879437693923,Tomato___Septoria_leaf_spot
+24.319864752743122,Snow,89.4731084520788,Tomato___Septoria_leaf_spot
+22.545686860006946,Scattered Clouds,88.47161016017617,Tomato___Septoria_leaf_spot
+20.902250258264406,Mist,80.44947188807922,Tomato___Septoria_leaf_spot
+20.491460961189524,Rain,82.41421792019129,Tomato___Septoria_leaf_spot
+20.353774736011562,Clear Sky,86.52834984087593,Tomato___Septoria_leaf_spot
+20.298435014930888,Thunderstorm,82.99437180880301,Tomato___Septoria_leaf_spot
+20.631049778917845,Broken Clouds,89.50052992356206,Tomato___Septoria_leaf_spot
+24.989746388747,Clear Sky,84.82749915519936,Tomato___Septoria_leaf_spot
+21.478429385415446,Mist,88.42365699379255,Tomato___Septoria_leaf_spot
+21.03572984478202,Snow,82.95251511184314,Tomato___Septoria_leaf_spot
+24.673393928738694,Scattered Clouds,83.66532635422774,Tomato___Septoria_leaf_spot
+22.619524759129686,Clear Sky,86.97352481350697,Tomato___Septoria_leaf_spot
+21.57782326474834,Scattered Clouds,80.72745280579471,Tomato___Septoria_leaf_spot
+21.535441015598714,Broken Clouds,85.50482772367836,Tomato___Septoria_leaf_spot
+22.39920388432055,Mist,87.48119904545892,Tomato___Septoria_leaf_spot
+22.453546405238427,Mist,85.41579100926442,Tomato___Septoria_leaf_spot
+24.750844937371518,Mist,84.62407491696995,Tomato___Septoria_leaf_spot
+21.945170003926307,Clear Sky,82.19699643493053,Tomato___Septoria_leaf_spot
+23.998289984746506,Broken Clouds,82.98402001731974,Tomato___Septoria_leaf_spot
+22.464541827055474,Thunderstorm,87.85383041371136,Tomato___Septoria_leaf_spot
+21.812111522012838,Thunderstorm,89.84268701523159,Tomato___Septoria_leaf_spot
+24.50293042563214,Clear Sky,88.6946228757472,Tomato___Septoria_leaf_spot
+23.936647517006676,Clear Sky,89.89753705409757,Tomato___Septoria_leaf_spot
+22.1904485041041,Broken Clouds,83.79562987661753,Tomato___Septoria_leaf_spot
+24.593820210671776,Clear Sky,83.80613395061725,Tomato___Septoria_leaf_spot
+22.589020902466928,Thunderstorm,87.34343235517623,Tomato___Septoria_leaf_spot
+24.743686521254837,Few Clouds,84.89343252076839,Tomato___Septoria_leaf_spot
+22.846997214177968,Snow,89.68406569420445,Tomato___Septoria_leaf_spot
+24.49907195292389,Thunderstorm,81.89563173348122,Tomato___Septoria_leaf_spot
+24.582125094252984,Clear Sky,89.30080845524994,Tomato___Septoria_leaf_spot
+22.359112616891036,Snow,81.5475655662597,Tomato___Septoria_leaf_spot
+21.839304923041347,Few Clouds,83.20855559842288,Tomato___Septoria_leaf_spot
+23.842221118460916,Shower Rain,82.5084234881587,Tomato___Septoria_leaf_spot
+29.529672011047523,Rain,47.539646734496976,Tomato___Spider_mites Two-spotted_spider_mite
+27.176245783269298,Scattered Clouds,42.25748534606015,Tomato___Spider_mites Two-spotted_spider_mite
+25.9155338806182,Few Clouds,55.6216361445554,Tomato___Spider_mites Two-spotted_spider_mite
+28.654127909086316,Broken Clouds,50.56016947152576,Tomato___Spider_mites Two-spotted_spider_mite
+28.727660898143252,Clear Sky,49.06445320252692,Tomato___Spider_mites Two-spotted_spider_mite
+29.750834544791587,Broken Clouds,51.082358236444094,Tomato___Spider_mites Two-spotted_spider_mite
+25.93127262925301,Snow,49.37567077388163,Tomato___Spider_mites Two-spotted_spider_mite
+29.101129698302337,Rain,42.381348961671215,Tomato___Spider_mites Two-spotted_spider_mite
+26.4148648688943,Mist,45.800174906630374,Tomato___Spider_mites Two-spotted_spider_mite
+29.786781006000965,Clear Sky,40.715827287833605,Tomato___Spider_mites Two-spotted_spider_mite
+28.745778754129415,Thunderstorm,53.301282482176816,Tomato___Spider_mites Two-spotted_spider_mite
+28.76988707780219,Clear Sky,48.83790882470975,Tomato___Spider_mites Two-spotted_spider_mite
+28.496803587545006,Clear Sky,44.5147439229509,Tomato___Spider_mites Two-spotted_spider_mite
+27.638554751197812,Broken Clouds,40.22921245369907,Tomato___Spider_mites Two-spotted_spider_mite
+26.10111532841203,Few Clouds,48.27702636548803,Tomato___Spider_mites Two-spotted_spider_mite
+29.708304609596787,Rain,54.70328969303152,Tomato___Spider_mites Two-spotted_spider_mite
+27.811652619621498,Few Clouds,59.02238776998011,Tomato___Spider_mites Two-spotted_spider_mite
+29.452509433880678,Scattered Clouds,57.79782400898946,Tomato___Spider_mites Two-spotted_spider_mite
+27.720228400574314,Snow,56.136370132825924,Tomato___Spider_mites Two-spotted_spider_mite
+27.022277311461224,Thunderstorm,47.32628166175053,Tomato___Spider_mites Two-spotted_spider_mite
+28.18028558913431,Scattered Clouds,58.33715513544502,Tomato___Spider_mites Two-spotted_spider_mite
+27.56617418694666,Mist,50.80422017300864,Tomato___Spider_mites Two-spotted_spider_mite
+26.28370574062468,Snow,59.566896739477905,Tomato___Spider_mites Two-spotted_spider_mite
+29.105062966070165,Scattered Clouds,47.11076505401117,Tomato___Spider_mites Two-spotted_spider_mite
+25.39151635030094,Broken Clouds,40.28556773800287,Tomato___Spider_mites Two-spotted_spider_mite
+27.885116385791356,Scattered Clouds,43.65632479810024,Tomato___Spider_mites Two-spotted_spider_mite
+28.727583559888664,Few Clouds,55.049232622398655,Tomato___Spider_mites Two-spotted_spider_mite
+29.932860950404493,Few Clouds,41.94483846549946,Tomato___Spider_mites Two-spotted_spider_mite
+25.41879876366979,Shower Rain,59.03382403544873,Tomato___Spider_mites Two-spotted_spider_mite
+25.229132545569225,Clear Sky,44.828466618639986,Tomato___Spider_mites Two-spotted_spider_mite
+27.816270368451303,Rain,53.92865632360943,Tomato___Spider_mites Two-spotted_spider_mite
+28.401466843797774,Rain,48.106807079695585,Tomato___Spider_mites Two-spotted_spider_mite
+27.830827681136608,Mist,41.47346726696515,Tomato___Spider_mites Two-spotted_spider_mite
+29.848800185259666,Thunderstorm,47.02682910933022,Tomato___Spider_mites Two-spotted_spider_mite
+29.758705121817194,Thunderstorm,52.347656526558524,Tomato___Spider_mites Two-spotted_spider_mite
+25.54104302485533,Clear Sky,46.982622921598946,Tomato___Spider_mites Two-spotted_spider_mite
+26.176214579995058,Scattered Clouds,50.94888022441675,Tomato___Spider_mites Two-spotted_spider_mite
+25.59243479263018,Scattered Clouds,50.99735180794649,Tomato___Spider_mites Two-spotted_spider_mite
+28.992536257438438,Shower Rain,56.762147447161965,Tomato___Spider_mites Two-spotted_spider_mite
+25.772960418552653,Rain,57.0516922184163,Tomato___Spider_mites Two-spotted_spider_mite
+26.78924934333829,Broken Clouds,50.69692061169961,Tomato___Spider_mites Two-spotted_spider_mite
+25.520175690138718,Thunderstorm,43.13513122710225,Tomato___Spider_mites Two-spotted_spider_mite
+26.05214139764836,Scattered Clouds,44.44004601880619,Tomato___Spider_mites Two-spotted_spider_mite
+29.005369119738553,Thunderstorm,45.868413012847036,Tomato___Spider_mites Two-spotted_spider_mite
+25.398551432692603,Mist,51.45608592962787,Tomato___Spider_mites Two-spotted_spider_mite
+28.29907240345617,Rain,57.443619112166544,Tomato___Spider_mites Two-spotted_spider_mite
+26.00280614707728,Few Clouds,45.9119803744633,Tomato___Spider_mites Two-spotted_spider_mite
+26.933036571749557,Broken Clouds,45.20252974157537,Tomato___Spider_mites Two-spotted_spider_mite
+27.46073986062401,Few Clouds,44.92325065364867,Tomato___Spider_mites Two-spotted_spider_mite
+25.0441604350184,Few Clouds,52.09436755601533,Tomato___Spider_mites Two-spotted_spider_mite
+24.013344078942048,Shower Rain,79.80803471278307,Tomato___Target_Spot
+20.453723804604625,Scattered Clouds,72.45363678014219,Tomato___Target_Spot
+21.68641823182167,Shower Rain,73.2273367671649,Tomato___Target_Spot
+25.62856398028712,Scattered Clouds,77.09715414550311,Tomato___Target_Spot
+24.584958383228212,Clear Sky,75.42120168804799,Tomato___Target_Spot
+20.23135920933473,Mist,75.50646031247769,Tomato___Target_Spot
+27.657810289931014,Snow,82.87170010733033,Tomato___Target_Spot
+22.351389265159188,Few Clouds,80.16802070539728,Tomato___Target_Spot
+22.886711185087414,Scattered Clouds,76.13227573281216,Tomato___Target_Spot
+22.63246344484293,Rain,75.90288368505139,Tomato___Target_Spot
+27.166768499801524,Few Clouds,79.07258107009433,Tomato___Target_Spot
+23.826233298046382,Broken Clouds,70.92634108172017,Tomato___Target_Spot
+22.682044110469143,Scattered Clouds,78.29903659699396,Tomato___Target_Spot
+25.999937465158098,Scattered Clouds,76.543843246809,Tomato___Target_Spot
+22.073091420281536,Clear Sky,80.0782990045116,Tomato___Target_Spot
+23.2306056660829,Rain,79.42717021201501,Tomato___Target_Spot
+24.530458452890834,Thunderstorm,73.47522317189456,Tomato___Target_Spot
+23.680144476973606,Snow,70.45029555103119,Tomato___Target_Spot
+23.424885166903955,Snow,80.29838735161337,Tomato___Target_Spot
+22.91548470694341,Mist,75.73482772153956,Tomato___Target_Spot
+20.72299204297478,Scattered Clouds,79.13482605927206,Tomato___Target_Spot
+26.042513566221196,Clear Sky,78.2489239757675,Tomato___Target_Spot
+21.493651097566705,Thunderstorm,71.80750145337498,Tomato___Target_Spot
+22.58424743709052,Scattered Clouds,78.07948307984407,Tomato___Target_Spot
+26.586553567652185,Clear Sky,77.92774488733771,Tomato___Target_Spot
+27.365342387298416,Scattered Clouds,73.66199921118503,Tomato___Target_Spot
+24.9089735153856,Few Clouds,84.45515925618152,Tomato___Target_Spot
+23.626231792155686,Few Clouds,79.87437141905399,Tomato___Target_Spot
+20.955613007434273,Broken Clouds,74.5735822281948,Tomato___Target_Spot
+22.72236901312167,Clear Sky,83.043324900485,Tomato___Target_Spot
+23.67466466656527,Mist,84.21076903284887,Tomato___Target_Spot
+21.73348175844337,Scattered Clouds,74.03235701406254,Tomato___Target_Spot
+27.30728039023157,Broken Clouds,82.59252265120475,Tomato___Target_Spot
+20.617531071230502,Clear Sky,70.44688150813985,Tomato___Target_Spot
+22.016227311555994,Shower Rain,74.89283748239212,Tomato___Target_Spot
+23.911009289999726,Rain,76.93198522723046,Tomato___Target_Spot
+23.415544859418308,Broken Clouds,76.02176176660906,Tomato___Target_Spot
+25.64415730175847,Clear Sky,79.13814411584138,Tomato___Target_Spot
+25.46076902625012,Snow,75.20585230673277,Tomato___Target_Spot
+25.685525594829443,Mist,70.5827104459907,Tomato___Target_Spot
+23.193490809395563,Thunderstorm,79.75287977050199,Tomato___Target_Spot
+26.95455283176063,Shower Rain,71.35046318152203,Tomato___Target_Spot
+25.620855553289708,Broken Clouds,81.42970780808358,Tomato___Target_Spot
+20.658933364738218,Broken Clouds,72.90741854106258,Tomato___Target_Spot
+27.62703005879875,Thunderstorm,78.33198711055068,Tomato___Target_Spot
+23.738406470921152,Few Clouds,78.99573742106325,Tomato___Target_Spot
+26.630352197895164,Thunderstorm,72.47547423914052,Tomato___Target_Spot
+23.371156559931357,Mist,70.29499793809254,Tomato___Target_Spot
+26.072697072378123,Thunderstorm,74.359463572158,Tomato___Target_Spot
+25.96581286441093,Snow,72.4404032461012,Tomato___Target_Spot
+28.801854021180805,Mist,64.93143238487018,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+34.395935269344946,Snow,55.13247230387332,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+26.70133279625415,Mist,69.03219046418269,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+33.21142543565733,Rain,57.780778012088575,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+32.98619023218373,Snow,52.480333583819586,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+25.537723363347887,Mist,52.51117207297519,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+32.09342067109423,Mist,61.647098908294446,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+27.722549123467317,Shower Rain,50.31703885849268,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.779028745038634,Scattered Clouds,51.367474115246814,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+31.920927601332355,Mist,56.26078650504818,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+34.65979149181083,Clear Sky,51.326211374207936,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+34.686181912833256,Clear Sky,64.72009036837017,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+33.9500115801783,Clear Sky,69.64108768893831,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+25.89345837463296,Broken Clouds,63.7427833965191,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+25.656089807437713,Clear Sky,51.540230145337375,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+32.3209971674234,Snow,62.387663656807185,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.33312887065864,Clear Sky,68.29321558815194,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+30.430802893836912,Thunderstorm,64.22308712814988,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.120256379381868,Broken Clouds,63.25988765111552,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.751687272934383,Broken Clouds,55.95913534831926,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.720360298271263,Mist,58.93625033639922,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+28.27578245233766,Snow,61.597006376019834,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+25.243233036110507,Broken Clouds,66.67102462520472,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+32.92134765228994,Few Clouds,55.513989931642534,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+30.87364439436571,Scattered Clouds,58.640709023907945,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+34.78552915259587,Scattered Clouds,59.051381308577305,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+26.043981075034562,Rain,67.94211349094086,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+31.060350045500236,Thunderstorm,65.33697064197885,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+26.81289083287532,Mist,65.94257523781965,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+32.72433577598447,Thunderstorm,53.478399241779904,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+31.10250204799437,Rain,54.80563070881067,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+31.984314681493252,Mist,63.68124372595181,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+33.79917824775886,Scattered Clouds,69.4806268759732,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+28.864150854817666,Scattered Clouds,63.60704351603859,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+33.01955621770893,Rain,52.4305130545071,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+25.806273229426075,Mist,54.66458693315005,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+33.35552498282967,Broken Clouds,69.50481087539998,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.054717733484352,Rain,58.892654563320676,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+33.4123076309784,Broken Clouds,62.57115211591036,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+27.88219341529671,Shower Rain,53.07618738411283,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+26.963028290698045,Clear Sky,58.19453975148705,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.672766739096495,Shower Rain,53.819291502223564,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+34.70327496172546,Scattered Clouds,65.64864615242126,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+25.569234780164372,Rain,59.96981947511738,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+33.43113693154006,Rain,54.06341207273633,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.47975055684592,Scattered Clouds,61.95103567913995,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+32.01132491262654,Snow,52.17703912863383,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.321280488272343,Rain,63.68049728444472,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+28.32931282718126,Clear Sky,66.81904450256347,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+25.68160621462105,Shower Rain,66.89772548119234,Tomato___Tomato_Yellow_Leaf_Curl_Virus
+29.387864407276407,Clear Sky,53.33474845586061,Tomato___Tomato_mosaic_virus
+29.099236306931687,Snow,69.49980450055999,Tomato___Tomato_mosaic_virus
+24.29372653674795,Few Clouds,51.00645876312718,Tomato___Tomato_mosaic_virus
+21.55945928692387,Broken Clouds,66.94231510867014,Tomato___Tomato_mosaic_virus
+22.999703991511055,Mist,57.358937425293796,Tomato___Tomato_mosaic_virus
+29.863384697972734,Broken Clouds,64.9168910679182,Tomato___Tomato_mosaic_virus
+24.33812395375732,Scattered Clouds,62.06943655125203,Tomato___Tomato_mosaic_virus
+27.715550479011775,Thunderstorm,59.906101398137345,Tomato___Tomato_mosaic_virus
+20.7943556339877,Snow,59.5462724982128,Tomato___Tomato_mosaic_virus
+26.92138958418621,Broken Clouds,61.947308566161546,Tomato___Tomato_mosaic_virus
+20.92233380558106,Mist,69.59896036813478,Tomato___Tomato_mosaic_virus
+24.946904485320925,Mist,64.08819115273903,Tomato___Tomato_mosaic_virus
+25.68209050361924,Snow,62.1655159135535,Tomato___Tomato_mosaic_virus
+28.749617464718188,Scattered Clouds,59.102672715369316,Tomato___Tomato_mosaic_virus
+28.465752281843905,Mist,63.04224974876865,Tomato___Tomato_mosaic_virus
+21.803959213738143,Few Clouds,56.475213426371376,Tomato___Tomato_mosaic_virus
+25.391130383741224,Rain,56.8577275556347,Tomato___Tomato_mosaic_virus
+24.858641208286695,Thunderstorm,67.41938213609741,Tomato___Tomato_mosaic_virus
+28.998765564985305,Shower Rain,60.80299273046756,Tomato___Tomato_mosaic_virus
+22.787945603105157,Few Clouds,64.66983298231082,Tomato___Tomato_mosaic_virus
+26.620840636609252,Rain,53.712588527737864,Tomato___Tomato_mosaic_virus
+28.922005675431702,Mist,57.73177405311023,Tomato___Tomato_mosaic_virus
+25.027352165150393,Snow,68.10720077173607,Tomato___Tomato_mosaic_virus
+21.026148584069524,Snow,57.89158343839506,Tomato___Tomato_mosaic_virus
+20.41869514114379,Clear Sky,60.21049208366815,Tomato___Tomato_mosaic_virus
+22.066363681719757,Shower Rain,57.949538716412825,Tomato___Tomato_mosaic_virus
+20.917223757207914,Broken Clouds,65.04362787503104,Tomato___Tomato_mosaic_virus
+27.15621693881028,Shower Rain,66.2928935981692,Tomato___Tomato_mosaic_virus
+22.09435202829269,Shower Rain,68.63164445586311,Tomato___Tomato_mosaic_virus
+25.709668413140655,Few Clouds,52.12360632411033,Tomato___Tomato_mosaic_virus
+29.694008315164073,Scattered Clouds,54.76656745950911,Tomato___Tomato_mosaic_virus
+28.166195280342336,Shower Rain,51.66419940469395,Tomato___Tomato_mosaic_virus
+27.864871161894794,Snow,65.33089424835404,Tomato___Tomato_mosaic_virus
+21.76416450152473,Broken Clouds,59.620134141790736,Tomato___Tomato_mosaic_virus
+26.265822977477832,Few Clouds,65.35372891039994,Tomato___Tomato_mosaic_virus
+28.275138140157107,Few Clouds,50.12752384254853,Tomato___Tomato_mosaic_virus
+26.624334277993693,Clear Sky,68.36000897090214,Tomato___Tomato_mosaic_virus
+28.20468142539986,Broken Clouds,65.21983862714693,Tomato___Tomato_mosaic_virus
+22.878943114427763,Shower Rain,61.297177356259745,Tomato___Tomato_mosaic_virus
+25.901149759129108,Broken Clouds,53.60644067814908,Tomato___Tomato_mosaic_virus
+20.46055278874575,Scattered Clouds,55.71842027379304,Tomato___Tomato_mosaic_virus
+28.45629355003741,Broken Clouds,69.49034477250521,Tomato___Tomato_mosaic_virus
+27.348665802381948,Scattered Clouds,66.38488077364381,Tomato___Tomato_mosaic_virus
+28.364230935766095,Thunderstorm,60.85492844960076,Tomato___Tomato_mosaic_virus
+25.397118042514418,Scattered Clouds,61.31292647283166,Tomato___Tomato_mosaic_virus
+24.688119331015653,Mist,68.80352025490797,Tomato___Tomato_mosaic_virus
+25.158260000876478,Few Clouds,65.96645441132684,Tomato___Tomato_mosaic_virus
+21.07365469059263,Few Clouds,66.56723584502735,Tomato___Tomato_mosaic_virus
+21.71310698830194,Shower Rain,60.25449340466059,Tomato___Tomato_mosaic_virus
+23.507468637497308,Thunderstorm,55.348701232080145,Tomato___Tomato_mosaic_virus
+21.05290253282478,Rain,56.387842790111605,Tomato___healthy
+21.88292194957695,Thunderstorm,59.666386611660755,Tomato___healthy
+21.781720128673378,Mist,59.40829979013377,Tomato___healthy
+23.260552647818077,Rain,63.67739941542944,Tomato___healthy
+24.804394235427925,Thunderstorm,56.075158140941376,Tomato___healthy
+22.082572751694357,Thunderstorm,61.068746109447815,Tomato___healthy
+24.816124574691916,Broken Clouds,64.51811858864599,Tomato___healthy
+21.63406111028569,Rain,68.94723706233239,Tomato___healthy
+20.033763260819903,Mist,61.62951059524864,Tomato___healthy
+22.85296254214247,Clear Sky,69.68330048090209,Tomato___healthy
+22.390992823893928,Shower Rain,64.5672585159011,Tomato___healthy
+20.899523214523732,Rain,53.66523020581417,Tomato___healthy
+22.310684463851256,Scattered Clouds,68.0077787842425,Tomato___healthy
+21.98812111480172,Clear Sky,62.57371067226101,Tomato___healthy
+20.697409832275497,Scattered Clouds,63.99338778887645,Tomato___healthy
+21.750650974452626,Mist,59.71216864504291,Tomato___healthy
+24.965168097209872,Broken Clouds,57.27504775283012,Tomato___healthy
+21.363899952489213,Snow,60.418452000864306,Tomato___healthy
+24.299046356204194,Scattered Clouds,54.092308046001406,Tomato___healthy
+23.274288666179636,Few Clouds,63.354312425822016,Tomato___healthy
+20.79803591072928,Broken Clouds,68.35822185845292,Tomato___healthy
+24.36133998531632,Shower Rain,59.72697723546319,Tomato___healthy
+23.230155912093615,Thunderstorm,60.689273127287755,Tomato___healthy
+20.054178440353407,Clear Sky,62.4180573570911,Tomato___healthy
+24.9266972999615,Thunderstorm,69.59909608112335,Tomato___healthy
+23.412242529837933,Clear Sky,59.17540645135812,Tomato___healthy
+21.32847652076207,Snow,55.26306592210436,Tomato___healthy
+22.12443276692666,Mist,68.42815600872505,Tomato___healthy
+20.815764584699586,Mist,67.46436378344438,Tomato___healthy
+23.564573835210673,Thunderstorm,63.94959144460731,Tomato___healthy
+22.644330990277147,Mist,58.38963680328373,Tomato___healthy
+20.41523765714,Shower Rain,64.8513675989912,Tomato___healthy
+22.191672419758483,Clear Sky,66.87284158546066,Tomato___healthy
+22.456889919410344,Clear Sky,67.31649388273628,Tomato___healthy
+21.115744469246792,Shower Rain,66.04950720444741,Tomato___healthy
+24.055694735628215,Clear Sky,59.966524197853566,Tomato___healthy
+24.08362681105896,Few Clouds,60.192007490724905,Tomato___healthy
+21.66376745435816,Scattered Clouds,50.424173899181156,Tomato___healthy
+24.24376635670238,Snow,61.53924362631552,Tomato___healthy
+23.566525782783646,Snow,62.09296678726727,Tomato___healthy
+22.332701609715762,Few Clouds,67.9792186690298,Tomato___healthy
+22.928142133854713,Broken Clouds,52.95553835151006,Tomato___healthy
+23.76734911381054,Rain,69.61787049948067,Tomato___healthy
+23.750806907472096,Scattered Clouds,53.85586871182023,Tomato___healthy
+21.478907724823024,Clear Sky,52.50076164781659,Tomato___healthy
+21.846218585055237,Mist,57.80349054067047,Tomato___healthy
+24.48365755160433,Thunderstorm,57.76060088581284,Tomato___healthy
+20.261591806820583,Thunderstorm,60.46524564121088,Tomato___healthy
+24.097918477557435,Broken Clouds,55.396653302155194,Tomato___healthy
+24.860999484799187,Mist,54.12354860850974,Tomato___healthy
