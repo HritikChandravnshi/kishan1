@@ -13,7 +13,7 @@ import pickle
 # Define a function to predict the disease based on environmental data
 def predict_disease_based_on_environment(plant_name, temperature, humidity):
     # Load the RF model specific to the plant
-    model_filename = f'rf_model_{plant_name}.pkl'
+    model_filename = f'Model/rf_model_{plant_name}.pkl'
     try:
         with open(model_filename, 'rb') as file:
             rf_model = pickle.load(file)
@@ -31,7 +31,7 @@ def predict_disease_based_on_environment(plant_name, temperature, humidity):
 # TensorFlow Model Prediction
 def model_prediction(test_image):
     try:
-        model = tf.keras.models.load_model("/Users/hritik/Desktop/sih/trained_model.keras")
+        model = tf.keras.models.load_model("/Users/hritik/Desktop/sih/sih 2/Model/trained_model.keras")
     except Exception as e:
         return f"Error loading the model: {e}"
 
